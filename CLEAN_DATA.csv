@@ -1,0 +1,635 @@
+Season Number,Original Air Date,Startup Name,Industry,Business Description,Original Ask Amount,Original Offered Equity,Valuation Requested,Received Offer,Accepted Offer,Total Deal Amount,Total Deal Equity,Invested Guest Name,All Guest Names,Number of Presenters,Male Presenters,Female Presenters,Pitchers Average Age,Pitchers City,Pitchers State
+1,2021-12-20,BluePineFoods,Food and Beverage,Frozen Momos,50.0,5.0,1000.0,1,1.0,75.0,16.0,Ashneer Grover,Ashneer Grover,3,2.0,1.0,Middle,Delhi,Delhi
+1,2021-12-20,BoozScooters,Vehicles/Electrical Vehicles,Renting e-bike for mobility in private spaces,40.0,15.0,267.0,1,1.0,40.0,50.0,Ashneer Grover,Ashneer Grover,1,1.0,,Young,Ahmedabad,Gujarat
+1,2021-12-20,HeartUpMySleeves,Beauty/Fashion,Detachable Sleeves,25.0,10.0,250.0,1,1.0,25.0,30.0,,Ashneer Grover,1,,1.0,Young,Delhi,Delhi
+1,2021-12-21,TagzFoods,Food and Beverage,Healthy Potato Chips Snacks,70.0,1.0,7000.0,1,1.0,70.0,2.75,Ashneer Grover,Ashneer Grover,2,2.0,,Middle,Bangalore,Karnataka
+1,2021-12-21,HeadAndHeart,Children/Education,Brain Development Course,50.0,5.0,1000.0,0,,,,,Ashneer Grover,4,1.0,3.0,Middle,Patiala,Punjab
+1,2021-12-21,Agritourism,Agriculture,Tourism,50.0,5.0,1000.0,0,,,,,Ashneer Grover,2,1.0,1.0,Middle,Baramati,Maharashtra
+1,2021-12-22,qZenseLabs,Food and Beverage,Food Freshness Detector,100.0,0.25,40000.0,1,0.0,,,,Ashneer Grover,2,,2.0,Middle,"Delhi,Mohali","Delhi,Punjab"
+1,2021-12-22,Peeschute,Beauty/Fashion,Disposable Urine Bag,75.0,4.0,1875.0,1,1.0,75.0,6.0,,Ashneer Grover,1,1.0,,Young,Jalna,Maharashtra
+1,2021-12-22,NOCD,Food and Beverage,Energy Drink,50.0,2.0,2500.0,1,1.0,20.0,15.0,,Ashneer Grover,2,2.0,,Middle,Bangalore,Karnataka
+1,2021-12-23,CosIQ,Beauty/Fashion,Intelligent Skincare,50.0,7.5,667.0,1,1.0,50.0,25.0,,Ashneer Grover,2,1.0,1.0,Middle,Delhi,Delhi
+1,2021-12-23,JhaJiAchaar,Food and Beverage,Pickle,50.0,10.0,500.0,1,1.0,56.6,5.62,,Ashneer Grover,2,,2.0,Old,Darbhanga,Bihar
+1,2021-12-23,Bummer,Beauty/Fashion,Underwear,75.0,4.0,1875.0,1,1.0,75.0,7.5,,Ashneer Grover,1,1.0,,Young,Ahmedabad,Gujarat
+1,2021-12-24,RevampMoto,Vehicles/Electrical Vehicles,E-Bike Mitra bud-e RM,100.0,1.0,10000.0,1,1.0,100.0,1.5,,Ashneer Grover,3,3.0,,Young,Nashik,Maharashtra
+1,2021-12-24,HungryHead,Food and Beverage,Restaurant serving 80 types of Maggi,50.0,5.0,1000.0,0,,,,,Ashneer Grover,2,2.0,,Middle,Mumbai,Maharashtra
+1,2021-12-24,ShrawaniEngineers,Beauty/Fashion,Belly Button Shaper,20.0,10.0,200.0,0,,,,,Ashneer Grover,2,1.0,1.0,Middle,Nagpur,Maharashtra
+1,2021-12-27,SkippiIcePops,Food and Beverage,Ice-Pops,45.0,5.0,900.0,1,1.0,100.0,15.0,Ashneer Grover,Ashneer Grover,2,1.0,1.0,Middle,Hyderabad,Telangana
+1,2021-12-27,Menstrupedia,Children/Education,Menstrual Awareness Comic,50.0,10.0,500.0,1,1.0,50.0,20.0,,Ashneer Grover,2,1.0,1.0,Middle,Ahmedabad,Gujarat
+1,2021-12-27,Hecoll,Beauty/Fashion,Pollution Resistant Fabric - Healthy Cover For All,100.0,1.0,10000.0,0,,,,,Ashneer Grover,1,,1.0,Middle,Hyderabad,Telangana
+1,2021-12-28,RaisingSuperstars,Children/Education,Child Development App,100.0,2.0,5000.0,1,1.0,100.0,4.0,Ashneer Grover,Ashneer Grover,2,1.0,1.0,Middle,Gurgaon,Haryana
+1,2021-12-28,Torch-it,Children/Education,Gadgets for visually impaired people,75.0,1.0,7500.0,1,0.0,,,,Ashneer Grover,1,1.0,,Middle,Ahmedabad,Gujarat
+1,2021-12-28,Kavach,Children/Education,Report bullying incidents,5.0,10.0,50.0,1,1.0,5.0,10.0,,Ashneer Grover,2,1.0,1.0,Young,Gurgaon,Haryana
+1,2021-12-28,LaKheerDeli,Food and Beverage,Kheer in variety of flavors,50.0,7.5,667.0,1,0.0,,,,Ashneer Grover,3,1.0,2.0,Middle,Pune,Maharashtra
+1,2021-12-29,BeyondSnack,Food and Beverage,Kerala Banana Chips,50.0,2.5,2000.0,1,1.0,50.0,2.5,Ashneer Grover,Ashneer Grover,1,1.0,,Middle,Thiruvananthapuram,Kerala
+1,2021-12-29,VivalyfInnovations,Medical/Health,Easy Life Prickless Diabetes Testing Machine,56.0,7.5,747.0,1,1.0,56.0,33.33,,Ashneer Grover,2,1.0,1.0,Young,Hyderabad,Telangana
+1,2021-12-29,MotionBreeze,Vehicles/Electrical Vehicles,Smart Electric Motorcycle,30.0,3.0,1000.0,1,1.0,30.0,6.0,Ashneer Grover,Ashneer Grover,4,4.0,,Middle,Vadodara,Gujarat
+1,2021-12-30,Altor,Manufacturing,Smart Helmets,50.0,5.0,1000.0,1,1.0,50.0,7.0,,Ashneer Grover,4,4.0,,Young,Kolkata,West Bengal
+1,2021-12-30,Ariro,Manufacturing,Wooden Toys,50.0,2.5,2000.0,1,1.0,50.0,10.0,,Ashneer Grover,2,1.0,1.0,Young,Chennai,Tamil Nadu
+1,2021-12-30,KabiraHandmad,Food and Beverage,Healthy Edible Oils dairy products spices flour,100.0,5.0,2000.0,1,0.0,,,,Ashneer Grover,2,1.0,1.0,Middle,Jaipur,Rajasthan
+1,2021-12-31,Nuutjob,Beauty/Fashion,Male Intimate Hygiene deo spray,25.0,5.0,500.0,1,1.0,25.0,20.0,,Ashneer Grover,2,,2.0,Young,Ahmedabad,Gujarat
+1,2021-12-31,Meatyour,Food and Beverage,Eggs,30.0,5.0,600.0,1,1.0,30.0,20.0,,Ashneer Grover,3,3.0,,Middle,Pune,Maharashtra
+1,2021-12-31,EventBeep,Children/Education,Student Community App EdTech,30.0,2.0,1500.0,1,1.0,30.0,3.0,Ashneer Grover,Ashneer Grover,3,2.0,1.0,Young,Pune,Maharashtra
+1,2022-01-03,Gopal's56,Food and Beverage,Fiber Ice Cream,30000.0,25.0,120000.0,0,,,,,Ashneer Grover,1,1.0,,Middle,Delhi,Delhi
+1,2022-01-03,ARRCOATSurfaceTextures,Manufacturing,Wall Building Surface Textures,50.0,5.0,1000.0,1,1.0,50.0,15.0,,Ashneer Grover,3,3.0,,Middle,Delhi,Delhi
+1,2022-01-03,Farda,Beauty/Fashion,Customised Streetwear,30.0,10.0,300.0,1,1.0,30.0,20.0,,Ashneer Grover,2,1.0,1.0,Young,Nagpur,Maharashtra
+1,2022-01-04,Auli,Beauty/Fashion,Ayurvedic Products Skincare Lifestyle,75.0,4.0,1875.0,1,1.0,75.0,15.0,,Ashneer Grover,1,,1.0,Middle,Kolkata,West Bengal
+1,2022-01-04,SweeDesi,Food and Beverage,Indian Sweets Online,40.0,3.0,1333.0,0,,,,,Ashneer Grover,2,1.0,1.0,Middle,Pune,Maharashtra
+1,2022-01-04,LOKA,Technology/Software,Metaverse App,40.0,5.0,800.0,1,1.0,40.0,24.0,,Ashneer Grover,1,1.0,,Young,Delhi,Delhi
+1,2022-01-05,Annie,Children/Education,Thinkerbell labs Braille Literary Device,30.0,0.5,6000.0,1,1.0,105.0,3.0,,Ashneer Grover,4,3.0,1.0,Young,Bangalore,Karnataka
+1,2022-01-05,Carragreen,Green/CleanTech,Eco-Friendly boxes,50.0,10.0,500.0,1,1.0,50.0,20.0,,Ashneer Grover,2,,2.0,Middle,Indore,Madhya Pradesh
+1,2022-01-05,TheYarnBazaar,Manufacturing,Yarn-Trading App Online Marketplace for Yarn,50.0,2.0,2500.0,1,1.0,100.0,10.0,Ashneer Grover,Ashneer Grover,1,1.0,,Middle,Mumbai,Maharashtra
+1,2022-01-06,TheRenalProject,Medical/Health,Home Dialysis Treatment,100.0,3.0,3333.0,1,1.0,100.0,6.0,,Ashneer Grover,1,1.0,,Middle,Mumbai,Maharashtra
+1,2022-01-06,MorrikoPureFoods,Food and Beverage,Healthy Food Snacks Kamdhenu foods,100.0,3.0,3333.0,1,0.0,,,,Ashneer Grover,3,2.0,1.0,Middle,Valsad,Gujarat
+1,2022-01-06,GoodGoodPiggy,Technology/Software,Digital Piggy Bank,45.0,5.0,900.0,0,,,,,Ashneer Grover,2,,2.0,Young,Delhi,Delhi
+1,2022-01-07,HammerLifestyle,Electronics,Smart Audio Products,30.0,3.0,1000.0,1,1.0,100.0,40.0,,Ashneer Grover,3,3.0,,Young,Panipat,Haryana
+1,2022-01-07,PNTRobotics,Technology/Software,Robotics and Automation Solutions,50.0,4.0,1250.0,1,1.0,25.0,25.0,,Ashneer Grover,2,2.0,,Young,Mumbai,Maharashtra
+1,2022-01-07,Cocofit,Food and Beverage,Coconut based beverage franchise,5e-05,5.0,0.0,1,1.0,5e-05,5.0,,Ashneer Grover,3,3.0,,Middle,Hyderabad,Telangana
+1,2022-01-10,BambooIndia,Manufacturing,Bamboo Products,80.0,4.0,2000.0,1,1.0,50.0,3.5,Ashneer Grover,Ashneer Grover,2,1.0,1.0,Middle,Pune,Maharashtra
+1,2022-01-10,FlyingFur,Animal/Pets,Dog pets Hygiene,75.0,7.0,1071.0,0,,,,,Ashneer Grover,3,2.0,1.0,Middle,Delhi,Delhi
+1,2022-01-10,BeyondWater,Food and Beverage,Liquid Water Enhancer,75.0,4.0,1875.0,1,1.0,75.0,15.0,,Ashneer Grover,2,1.0,1.0,Young,Kolkata,West Bengal
+1,2022-01-10,Let'sTry,Food and Beverage,Healthy Snacks,45.0,2.0,2250.0,1,1.0,45.0,12.0,,Ashneer Grover,4,1.0,3.0,Middle,Delhi,Delhi
+1,2022-01-11,FindYourKicksIndia,Beauty/Fashion,Sneaker Resale,50.0,10.0,500.0,1,1.0,50.0,25.0,Ashneer Grover,Ashneer Grover,3,3.0,,Young,Ludhiana,Punjab
+1,2022-01-11,AasVidyalaya,Children/Education,EdTech App,150.0,3.0,5000.0,1,1.0,150.0,15.0,Ashneer Grover,Ashneer Grover,2,1.0,1.0,Middle,Mumbai,Maharashtra
+1,2022-01-11,Outbox,Business Services,Premium Surprise-Planning,50.0,5.0,1000.0,0,,,,,Ashneer Grover,2,1.0,1.0,Young,Kolkata,West Bengal
+1,2022-01-11,RoadBounce,Technology/Software,Pothole Detection Software and Data,80.0,10.0,800.0,1,1.0,80.0,20.0,,Ashneer Grover,1,1.0,,Middle,Pune,Maharashtra
+1,2022-01-12,Mommy'sKitchen,Food and Beverage,Thin Crust Pizza,90.0,3.0,3000.0,0,,,,,Ashneer Grover,3,2.0,1.0,Middle,Mumbai,Maharashtra
+1,2022-01-12,IndiaHempandCo,Food and Beverage,Hemp Food Products,50.0,4.0,1250.0,1,0.0,,,,Ashneer Grover,1,,1.0,Middle,Bangalore,Karnataka
+1,2022-01-12,Otua,Vehicles/Electrical Vehicles,Electric Auto Vehicle Dandera,100.0,1.0,10000.0,1,1.0,1.0,1.0,Ashneer Grover,Ashneer Grover,2,2.0,,Middle,Gurgaon,Haryana
+1,2022-01-12,Anthyesti,Business Services,Funeral Service the last rites,50.0,2.5,2000.0,0,,,,,Ashneer Grover,1,,1.0,Middle,Bangalore,Karnataka
+1,2022-01-13,Ethik,Manufacturing,Leather-free Shoes,15.0,5.0,300.0,0,,,,,Ashneer Grover,2,2.0,,Middle,Bangalore,Karnataka
+1,2022-01-13,WeSTOCK,Animal/Pets,Brainwired Livestock health monitoring AI pets ear tag,50.0,5.0,1000.0,1,1.0,60.0,10.0,Ashneer Grover,Ashneer Grover,2,2.0,,Middle,Ernakulam,Kerala
+1,2022-01-13,KetoIndia,Food and Beverage,Customised Keto Diets for various Medical/Health issues,150.0,1.25,12000.0,1,0.0,,,,Ashneer Grover,1,1.0,,Young,Delhi,Delhi
+1,2022-01-13,Magiclock,Hardware,LPG Cylinder lock,120.0,8.0,1500.0,0,,,,,Ashneer Grover,3,3.0,,Middle,Mumbai,Maharashtra
+1,2022-01-14,TheStatePlate,Food and Beverage,Delicacies,65.0,2.0,3250.0,1,1.0,40.0,3.0,,Ashneer Grover,2,1.0,1.0,Young,"Bangalore,Kolkata","Karnataka,West Bengal"
+1,2022-01-14,Bakarmax,Technology/Software,Comics & Animation,35.0,5.0,700.0,0,,,,,Ashneer Grover,2,2.0,,Young,Delhi,Delhi
+1,2022-01-14,INACAN,Food and Beverage,Can Cocktails,50.0,2.0,2500.0,1,1.0,100.0,10.0,Ashneer Grover,Ashneer Grover,3,3.0,,Middle,Pune,Maharashtra
+1,2022-01-17,Get-A-Whey,Food and Beverage,Sugar-Free Icecream,100.0,8.0,1250.0,1,1.0,100.0,15.0,Ashneer Grover,Ashneer Grover,2,1.0,1.0,Middle,Mumbai,Maharashtra
+1,2022-01-17,Sid07Designs,Hardware,Inventions,47.0,10.0,470.0,1,1.0,25.0,75.0,,Ashneer Grover,1,1.0,,Young,Jammu,Jammu & Kashmir
+1,2022-01-17,TheQuirkyNaari,Beauty/Fashion,Customised Apparels,35.0,5.0,700.0,1,1.0,35.0,24.0,,Ashneer Grover,1,,1.0,Young,Mathura,Uttar Pradesh
+1,2022-01-18,HairOriginals,Beauty/Fashion,Natural Hair Extensions,60.0,2.0,3000.0,1,1.0,60.0,4.0,Ashneer Grover,Ashneer Grover,3,3.0,,Middle,Gurgaon,Haryana
+1,2022-01-18,Poo-de-Cologne,Beauty/Fashion,Toilet Spray with Essential Oils,75.0,5.0,1500.0,0,,,,,Ashneer Grover,1,,1.0,Middle,Mumbai,Maharashtra
+1,2022-01-18,Moonshine,Food and Beverage,Meads,80.0,0.5,16000.0,1,0.0,,,,Ashneer Grover,2,2.0,,Middle,Mumbai,Maharashtra
+1,2022-01-18,Falhari,Food and Beverage,Fresh Fruits salads,50.0,2.0,2500.0,1,0.0,,,,Ashneer Grover,3,3.0,,Middle,Gurgaon,Haryana
+1,2022-01-19,NamhyaFoods,Food and Beverage,Ayurvedic Enriched Food,100.0,5.0,2000.0,1,1.0,50.0,10.0,,Ashneer Grover,1,,1.0,Young,Jammu,Jammu & Kashmir
+1,2022-01-19,UrbanMonkey,Beauty/Fashion,Streetwear,100.0,1.0,10000.0,1,0.0,,,,Ashneer Grover,1,1.0,,Young,Mumbai,Maharashtra
+1,2022-01-19,GuardianGears,Manufacturing,Motorcycle Luggage bags,30.0,5.0,600.0,1,0.0,,,,Ashneer Grover,2,1.0,1.0,Middle,Hyderabad,Telangana
+1,2022-01-19,ModernMyth,Beauty/Fashion,Bags Slings Clutches Handbags Totes Laptop Bags Travel Essentials Pouches Trunks & Gifting,75.0,5.0,1500.0,0,,,,,Ashneer Grover,2,1.0,1.0,Young,Delhi,Delhi
+1,2022-01-20,TheSassBar,Beauty/Fashion,Gifts Soaps,40.0,8.0,500.0,1,1.0,50.0,35.0,Ghazal Alagh,Ghazal Alagh,1,,1.0,Young,Mumbai,Maharashtra
+1,2022-01-20,KGAgrotech,Agriculture,Agricultural Innovations,30.0,10.0,300.0,1,1.0,10.0,40.0,,Ghazal Alagh,2,2.0,,Young,Malegaon,Maharashtra
+1,2022-01-20,NuskhaKitchen,Food and Beverage,Homemade after delivery Foods,20.0,10.0,200.0,0,,,,,Ghazal Alagh,2,1.0,1.0,Middle,Jaipur,Rajasthan
+1,2022-01-21,PawsIndia,Animal/Pets,Dog Products,50.0,4.0,1250.0,1,1.0,50.0,15.0,,Ghazal Alagh,1,,1.0,Young,Mumbai,Maharashtra
+1,2022-01-21,SunfoxTechnologies,Medical/Health,Portable ECG Device,100.0,2.0,5000.0,1,1.0,100.0,6.0,Ghazal Alagh,Ghazal Alagh,4,4.0,,Young,Dehradun,Uttarakhand
+1,2022-01-21,Alpino,Food and Beverage,Roasted Peanut butter Products,150.0,2.0,7500.0,1,0.0,,,,Ghazal Alagh,4,4.0,,Young,Surat,Gujarat
+1,2022-01-24,IsakFragrances,Beauty/Fashion,Perfumes Fragrances,50.0,8.0,625.0,1,1.0,50.0,50.0,,Ghazal Alagh,1,,1.0,Young,Lucknow,Uttar Pradesh
+1,2022-01-24,JulaaAutomation,Manufacturing,Automatic Cradle,50.0,10.0,500.0,0,,,,,Ghazal Alagh,3,3.0,,Middle,Ahmedabad,Gujarat
+1,2022-01-24,RarePlanet,Manufacturing,Handicrafts,65.0,1.0,6500.0,1,1.0,65.0,3.0,,Ghazal Alagh,2,2.0,,Middle,Kolkata,West Bengal
+1,2022-01-25,ThekaCoffee,Food and Beverage,Coffee Products,50.0,10.0,500.0,0,,,,,Ghazal Alagh,1,1.0,,Young,Gandhinagar,Gujarat
+1,2022-01-25,WattTechnovations,Medical/Health,Ventilated PPE Kits,0.00101,2.0,0.0,1,1.0,0.00101,4.0,Ghazal Alagh,Ghazal Alagh,1,1.0,,Young,Pune,Maharashtra
+1,2022-01-25,AlisteTechnologies,Technology/Software,Automation Solutions,60.0,5.0,1200.0,1,0.0,,,,Ghazal Alagh,6,6.0,,Young,Noida,Uttar Pradesh
+1,2022-01-25,InsuranceSamadhan,Business Services,Insurance Solutions,100.0,1.0,10000.0,1,1.0,100.0,4.0,,Ghazal Alagh,3,2.0,1.0,Middle,Noida,Uttar Pradesh
+1,2022-01-26,HumpyA2,Food and Beverage,Organic Milk A2 Products,75.0,4.0,1875.0,1,1.0,100.0,15.0,Ghazal Alagh,Ghazal Alagh,3,2.0,1.0,Middle,Pune,Maharashtra
+1,2022-01-26,KunafaWorld,Food and Beverage,Kunafa food products,90.0,5.0,1800.0,0,,,,,Ghazal Alagh,2,1.0,1.0,Young,Mangalore,Karnataka
+1,2022-01-26,GoldSafeSolutions,Manufacturing,Anti-Suicidal Fan Rod,50.0,5.0,1000.0,1,1.0,50.0,30.0,Ghazal Alagh,Ghazal Alagh,2,2.0,,Middle,Mumbai,Maharashtra
+1,2022-01-27,WakaoFoods,Food and Beverage,Jackfruit Products,75.0,5.0,1500.0,1,1.0,75.0,21.0,Ghazal Alagh,Ghazal Alagh,1,1.0,,Middle,Goa,Goa
+1,2022-01-27,PDDFalcon,Manufacturing,Stainless Steel Items,75.0,3.0,2500.0,1,0.0,,,,Ghazal Alagh,2,1.0,1.0,Young,Gandhinagar,Gujarat
+1,2022-01-27,PlayBoxTV,Business Services,Streaming Platform,100.0,3.5,2857.0,1,0.0,,,,Ghazal Alagh,2,2.0,,Young,Mumbai,Maharashtra
+1,2022-01-28,Sippline,Manufacturing,Portable Glass Attachment Drinking Shields,75.0,15.0,500.0,0,,,,,Ashneer Grover,1,1.0,,Middle,Pune,Maharashtra
+1,2022-01-28,KabaddiAdda,Fitness/Sports/Outdoors,All-Kabaddi App,80.0,1.0,8000.0,1,1.0,80.0,6.0,,Ashneer Grover,2,2.0,,Middle,Bangalore,Karnataka
+1,2022-01-28,ShadesofSpring,Business Services,Flowers,300.0,1.0,30000.0,0,,,,,Ashneer Grover,2,1.0,1.0,Young,Bangalore,Karnataka
+1,2022-01-28,Scholify,Children/Education,Scholarship Platform,50.0,7.5,667.0,0,,,,,Ashneer Grover,1,1.0,,Middle,Bangalore,Karnataka
+1,2022-01-31,Scrapshala,Manufacturing,Handmade Reusable Scrap Materials,50.0,10.0,500.0,0,,,,,Ashneer Grover,2,,2.0,Middle,Varanasi,Uttar Pradesh
+1,2022-01-31,Sabjikothi,Manufacturing,Vegetables Storage SaptKrishi,60.0,2.5,2400.0,0,,,,,Ashneer Grover,2,1.0,1.0,Young,Bhagalpur,Bihar
+1,2022-01-31,AyuRythm,Medical/Health,Ayurvedic Wellness App,75.0,2.0,3750.0,1,1.0,75.0,2.68,,Ashneer Grover,3,3.0,,Middle,Bangalore,Karnataka
+1,2022-01-31,Astrix,Manufacturing,Smart Locks Qtouch,75.0,3.0,2500.0,0,,,,,Ashneer Grover,2,1.0,1.0,Middle,Coimbatore,Tamil Nadu
+1,2022-02-01,TheaAndSid,Business Services,Proposal Solutions,80.0,7.0,1143.0,0,,,,,Ashneer Grover,2,,2.0,Middle,Mumbai,Maharashtra
+1,2022-02-01,ExperentialEtc,Technology/Software,Technology layered advertisement services,200.0,4.0,5000.0,1,0.0,,,,Ashneer Grover,2,2.0,,Middle,Mumbai,Maharashtra
+1,2022-02-01,GrowFitter,Technology/Software,Rewards App,50.0,1.0,5000.0,1,1.0,50.0,2.0,,Ashneer Grover,2,2.0,,Middle,Mumbai,Maharashtra
+1,2022-02-01,C3Med-Tech,Medical/Health,Portable ophthalmic vision devices,35.0,6.0,583.0,1,0.0,,,,Ashneer Grover,2,1.0,1.0,Middle,Ahmedabad,Gujarat
+1,2022-02-02,ColourMeMad-CMM,Beauty/Fashion,Insoles,40.0,10.0,400.0,1,1.0,40.0,25.0,,Ashneer Grover,2,1.0,1.0,Middle,Mumbai,Maharashtra
+1,2022-02-02,Mavi's,Food and Beverage,Vegan Fermented Food,40.0,5.0,800.0,0,,,,,Ashneer Grover,2,1.0,1.0,Middle,Thane,Maharashtra
+1,2022-02-02,TweekLabs,Fitness/Sports/Outdoors,Sportswear,40.0,2.0,2000.0,1,1.0,60.0,10.0,Ashneer Grover,Ashneer Grover,4,4.0,,Middle,Delhi,Delhi
+1,2022-02-02,Proxgy,Technology/Software,Virtual Reality,35.0,1.0,3500.0,1,1.0,100.0,10.0,Ashneer Grover,Ashneer Grover,2,2.0,,Middle,Delhi,Delhi
+1,2022-02-03,NomadFoodProject,Food and Beverage,Bacon Jams Relishes,40.0,10.0,400.0,1,1.0,40.0,20.0,"Ghazal Alagh,Ashneer Grover","Ghazal Alagh,Ashneer Grover",2,2.0,,Young,"Delhi,Pune","Delhi,Maharashtra"
+1,2022-02-03,TweeInOne,Beauty/Fashion,Reversible and convertible clothing,30.0,7.5,400.0,0,,,,,"Ghazal Alagh,Ashneer Grover",1,,1.0,Young,Mumbai,Maharashtra
+1,2022-02-03,GreenProtein,Food and Beverage,Plant-Based Protein,60.0,2.0,3000.0,1,0.0,,,,"Ghazal Alagh,Ashneer Grover",2,1.0,1.0,Middle,Mumbai,Maharashtra
+1,2022-02-03,On2Cook,Food and Beverage,Fastest Cooking Device,100.0,1.0,10000.0,0,,,,,"Ghazal Alagh,Ashneer Grover",1,1.0,,Middle,Ahmedabad,Gujarat
+1,2022-02-04,JainShikanji,Food and Beverage,Lemonade,40.0,8.0,500.0,1,1.0,40.0,30.0,Ashneer Grover,"Ghazal Alagh,Ashneer Grover",1,1.0,,Middle,Modinagar,Uttar Pradesh
+1,2022-02-04,Woloo,Technology/Software,Washroom Finder,50.0,4.0,1250.0,1,0.0,,,,"Ghazal Alagh,Ashneer Grover",3,1.0,2.0,Middle,Mumbai,Maharashtra
+1,2022-02-04,ElcareIndia,Medical/Health,Carenting for Elders,100.0,2.5,4000.0,0,,,,,"Ghazal Alagh,Ashneer Grover",3,2.0,1.0,Middle,Mumbai,Maharashtra
+1,2022-02-04,SneaKare,Beauty/Fashion,Shoe Sneaker kits storage crates,20.0,5.0,400.0,1,1.0,21.0,12.0,,,1,1.0,,Young,Delhi,Delhi
+1,2022-02-04,FrenchCrown,Beauty/Fashion,Clothes,150.0,0.33,45455.0,1,0.0,,,,,2,2.0,,Middle,Surat,Gujarat
+1,2022-02-04,StoreMyGoods,Business Services,Storage solutions,100.0,1.75,5714.0,1,1.0,50.0,4.0,,,3,2.0,1.0,Middle,Noida,Uttar Pradesh
+1,2022-02-04,Devnagri,Technology/Software,Translation of language content,100.0,1.0,10000.0,1,0.0,,,,,2,2.0,,Middle,Delhi,Delhi
+1,,WitBlox,Manufacturing,Kids playing equipment,60.0,3.0,2000.0,1,1.0,60.0,10.0,Ghazal Alagh,Ghazal Alagh,2,1.0,1.0,Middle,Mumbai,Maharashtra
+1,,Kineer,Food and Beverage,Packaged drinking water,100.0,10.0,1000.0,0,,,,,,2,1.0,,Middle,Pune,Maharashtra
+1,,PiChem,Manufacturing,Chemical products,40.0,5.0,800.0,0,,,,,,1,1.0,,Young,Lucknow,Uttar Pradesh
+1,,Clensta,Beauty/Fashion,Waterless bathing technology products,100.0,1.0,10000.0,0,,,,,,1,1.0,,Middle,Delhi,Delhi
+1,,InfinitiInsects,Animal/Pets,Live insect feed for pets,25.0,10.0,250.0,0,,,,,,2,1.0,1.0,Middle,Bangalore,Karnataka
+1,,AshwaPro,Business Services,Outdoor cycling gym,50.0,10.0,500.0,0,,,,,,1,1.0,,Middle,Jaipur,Rajasthan
+1,,Mine4Nine,Beauty/Fashion,Trendy maternity dresses,75.0,4.0,1875.0,0,,,,,,2,1.0,1.0,Middle,Gurgaon,Haryana
+1,,StudioBeej,Beauty/Fashion,Sustainable leather accessories,75.0,7.5,1000.0,0,,,,,,1,,1.0,Middle,Mumbai,Maharashtra
+1,,Sattuz,Food and Beverage,Foods Beverages super food,25.0,5.0,500.0,0,,,,,,2,1.0,1.0,Middle,Madhubani,Bihar
+1,,Scintiglo,Medical/Health,Diagnostic device for microalbuminuria estimation,75.0,1.0,7500.0,1,0.0,,,,,1,1.0,,Middle,Indore,Madhya Pradesh
+1,,Glii,Business Services,Dating app for LGBTQ,40.0,4.0,1000.0,0,,,,,,4,3.0,,Middle,Noida,Uttar Pradesh
+1,,StanleeIndia,Electronics,Televisions,60.0,3.0,2000.0,0,,,,,,3,3.0,,Middle,Delhi,Delhi
+1,,SpaceKidzIndia,Manufacturing,Small Satellites by kids,100.0,2.0,5000.0,0,,,,,,2,1.0,1.0,Middle,Chennai,Tamil Nadu
+1,,UrbanNaps,Business Services,Smart Napping Pod,50.0,4.0,1250.0,1,0.0,,,,,2,2.0,,Young,Ahmedabad,Gujarat
+1,,Gizmoswala,Entertainment,Sex toys and games,75.0,5.0,1500.0,0,,,,,,3,2.0,1.0,Middle,Mumbai,Maharashtra
+1,,ZyppElectric,Vehicles/Electrical Vehicles,Electrical Vehicles,220.0,1.0,22000.0,0,,,,,,2,1.0,1.0,Young,Gurgaon,Haryana
+1,,Picsniff,Technology/Software,Face recognition based image sharing,55.0,1.0,5500.0,1,0.0,,,,,1,1.0,,Young,Mumbai,Maharashtra
+1,,Deciwood,Electronics,Portable wooden Bluetooth speakers,50.0,3.5,1429.0,0,,,,,,2,2.0,,Young,Delhi,Delhi
+1,,HappyBar,Food and Beverage,FitSport delicious snacks,60.0,2.0,3000.0,0,,,,,,3,2.0,1.0,Middle,Hyderabad,Telangana
+1,,Tathastulive,Business Services,"Offer Daan, Puja and Yajna",50.0,10.0,500.0,0,,,,,,3,2.0,1.0,Middle,Ahmedabad,Gujarat
+1,,BandsandCups,Beauty/Fashion,Bra fitting service,40.0,10.0,400.0,0,,,,,,1,,1.0,Middle,Chennai,Tamil Nadu
+1,,MyWealthProtector,Business Services,Beyond Life Service,50.0,2.5,2000.0,0,,,,,,2,2.0,,Middle,Mumbai,Maharashtra
+1,,TheIris,Manufacturing,Pocket Microscopes,10.0,15.0,67.0,0,,,,,,2,1.0,1.0,Young,Bangalore,Karnataka
+1,,Canebot,Food and Beverage,Juice making machine,100.0,2.5,4000.0,0,,,,,,2,1.0,1.0,Middle,Pune,Maharashtra
+1,,OyeDelhiOye,Food and Beverage,Delhi Ke Chole Kulche,35.0,10.0,350.0,0,,,,,,2,2.0,,Middle,Delhi,Delhi
+1,,InaliAssistiveTech,Medical/Health,Prosthetics,50.0,5.0,1000.0,0,,,,,,2,2.0,,Young,Pune,Maharashtra
+1,,Meera'sCelebrations,Business Services,Wedding ceremonial items,50.0,25.0,200.0,0,,,,,,2,1.0,1.0,Middle,Ludhiana,Punjab
+1,,Artment,Lifestyle/Home,Exquisite pieces of home decor,170.0,2.5,6800.0,1,0.0,,,,,2,1.0,1.0,Young,Gurgaon,Haryana
+1,,Powertree,Manufacturing,Beautiful efficient solar panels,150.0,2.5,6000.0,0,,,,,,2,2.0,,Middle,Gandhinagar,Gujarat
+1,,Eume,Beauty/Fashion,Massager Backpack,150.0,2.0,7500.0,1,0.0,,,,,3,2.0,1.0,Middle,Mumbai,Maharashtra
+2,2023-01-02,Hoovu,Business Services,Fresh Pooja flowers,80.0,1.0,8000.0,1,1.0,100.0,2.0,,,2,,2.0,Young,Bangalore,Karnataka
+2,2023-01-02,Dorji,Food and Beverage,Flavors of Tea,30.0,5.0,600.0,1,1.0,30.0,15.0,,,2,2.0,,Young,Darjeeling,West Bengal
+2,2023-01-02,Recode,Beauty/Fashion,Beauty & cosmetics,100.0,1.0,10000.0,0,,,,,,2,2.0,,Middle,Ludhiana,Punjab
+2,2023-01-03,VeryMuchIndian,Beauty/Fashion,Paithani Handloom Sarees,50.0,3.0,1667.0,1,1.0,50.0,10.0,,,2,1.0,1.0,Middle,Pune,Maharashtra
+2,2023-01-03,WatchoutWearables,Electronics,Smart watches,200.0,5.0,4000.0,1,1.0,100.0,10.0,,,2,2.0,,Young,Thane,Maharashtra
+2,2023-01-03,SoupX,Food and Beverage,Soup based meals,75.0,6.0,1250.0,1,1.0,50.0,18.0,,,2,2.0,,Young,Delhi,Delhi
+2,2023-01-04,ATMOSPHERE,Food and Beverage,Varieties of kombucha,75.0,3.0,2500.0,1,0.0,,,,,2,,2.0,Young,Delhi,Delhi
+2,2023-01-04,Stage,Entertainment,Web series and movies in Indian languages,300.0,1.0,30000.0,1,1.0,150.0,0.6,,,3,3.0,,Young,"Bhiwani,Barnagar","Haryana,Madhya Pradesh"
+2,2023-01-04,Girgit,Beauty/Fashion,color-changing clothing products,20.0,10.0,200.0,1,1.0,20.0,20.0,,,2,1.0,1.0,Young,Mumbai,Maharashtra
+2,2023-01-05,GearHeadMotors,Vehicles/Electrical Vehicles,Electric vehicles bikes,75.0,2.0,3750.0,1,1.0,100.0,6.67,,,2,2.0,,Young,Hyderabad,Telangana
+2,2023-01-05,PatilKaki,Food and Beverage,Homemade snacks,40.0,2.5,1600.0,1,1.0,40.0,4.0,,,3,2.0,1.0,Young,Mumbai,Maharashtra
+2,2023-01-05,Brandsdaddy,Manufacturing,Auto Fire Extinguisher,70.0,5.0,1400.0,1,1.0,35.0,5.0,,,2,1.0,1.0,Middle,Mumbai,Maharashtra
+2,2023-01-06,Winston,Beauty/Fashion,Techno beauty products at home,100.0,4.0,2500.0,1,1.0,100.0,10.0,,,2,1.0,1.0,Middle,Faridabad,Haryana
+2,2023-01-06,Flatheads,Beauty/Fashion,Shoes Sneakers Loafers,75.0,3.0,2500.0,1,0.0,,,,,1,1.0,,Middle,Bangalore,Karnataka
+2,2023-01-06,OrganicSmokes,Beauty/Fashion,Organic Cigarettes Cigarillos Smokes,100.0,1.0,10000.0,0,,,,,,3,3.0,,Middle,Delhi,Delhi
+2,2023-01-09,TeaFit,Food and Beverage,Refreshing beverages,50.0,3.0,1666.666667,1,1.0,50.0,8.0,,,3,2.0,1.0,Young,Mumbai,Maharashtra
+2,2023-01-09,Haqdarshak,Business Services,Platform to know about welfare schemes for MSMEs,100.0,0.5,20000.0,1,1.0,100.0,2.0,,,2,1.0,1.0,Middle,Shimla,Himachal Pradesh
+2,2023-01-09,Bhaskar'sPuranpoliGhar,Food and Beverage,Varieties of Puranpoli snacks,75.0,1.0,7500.0,0,,,,,,3,3.0,,Middle,Thane,Maharashtra
+2,2023-01-10,GunjanAppsStudios,Technology/Software,CHILDREN'S PLAYFUL LEARNING PARTNER,250.0,1.0,25000.0,0,,,,,,2,1.0,1.0,Middle,Kolkata,West Bengal
+2,2023-01-10,TheSimplySalad,Food and Beverage,Freshly chopped salads,30.0,10.0,300.0,1,1.0,30.0,10.0,,,2,1.0,1.0,Young,Ahmedabad,Gujarat
+2,2023-01-10,AyuSynk,Medical/Health,Digital Stethoscopes,100.0,1.5,6666.666667,1,1.0,50.0,3.5,,,3,3.0,,Middle,Mumbai,Maharashtra
+2,2023-01-11,AtypicalAdvantage,Technology/Software,Platform for persons with disabilities,30.0,1.0,3000.0,1,1.0,30.0,3.0,,,1,1.0,,Middle,Jamshedpur,Jharkhand
+2,2023-01-11,HouseOfChikankari,Beauty/Fashion,HANDMADE BY ARTISANS OF LUCKNOW,75.0,1.0,7500.0,1,1.0,75.0,3.75,,,2,,2.0,Middle,Delhi,Delhi
+2,2023-01-11,MagicOfMemories,Beauty/Fashion,DNA Jewllery,25.0,5.0,500.0,0,,,,,,1,,1.0,Middle,Delhi,Delhi
+2,2023-01-12,Paradyes,Beauty/Fashion,Semi Permanent Hair Color,65.0,1.0,6500.0,1,1.0,65.0,2.0,,,2,1.0,1.0,Young,Ahmedabad,Gujarat
+2,2023-01-12,Nestroots,Lifestyle/Home,"House of design, aesthetics and elegance",50.0,1.0,5000.0,1,1.0,50.0,2.0,,,1,,1.0,Middle,Delhi,Delhi
+2,2023-01-13,Zillionaire,Beauty/Fashion,Unique styles of stones and jewels,50.0,3.3,1515.151515,1,1.0,100.0,10.0,,,2,2.0,,Young,Jaipur,Rajasthan
+2,2023-01-13,Credmate,Technology/Software,Platform for credit score,50.0,5.0,1000.0,0,,,,,,2,2.0,,Middle,Ludhiana,Punjab
+2,2023-01-13,Freebowler,Fitness/Sports/Outdoors,Non-Electric & Portable Bowling Machines,75.0,7.5,1000.0,1,1.0,25.0,7.5,,,2,2.0,,Middle,Bangalore,Karnataka
+2,2023-01-16,ABCSports&Fitness,Fitness/Sports/Outdoors,Sports training institute,40.0,2.0,2000.0,1,1.0,40.0,10.0,,,2,2.0,,Middle,Pune,Maharashtra
+2,2023-01-16,Primebook,Technology/Software,Android Apps on Windows laptops,75.0,1.5,5000.0,1,1.0,75.0,3.0,,,4,4.0,,Middle,Delhi,Delhi
+2,2023-01-16,DailyDump,Manufacturing,Compost Bins,80.0,4.0,2000.0,1,1.0,30.0,4.0,,,2,1.0,1.0,Middle,Bangalore,Karnataka
+2,2023-01-17,GharSoaps,Beauty/Fashion,Pure Organic Soaps,60.0,2.0,3000.0,1,1.0,60.0,4.0,,,2,2.0,,Middle,Pune,Maharashtra
+2,2023-01-17,Janitri,Medical/Health,Pregnancy Monitoring systems,100.0,2.5,4000.0,1,1.0,100.0,2.5,,,1,1.0,,Middle,Alwar,Rajasthan
+2,2023-01-17,JaipurWatchCompany,Manufacturing,Made in India Imperial Automatic Watches,50.0,2.0,2500.0,0,,,,,,1,1.0,,Middle,Jaipur,Rajasthan
+2,2023-01-18,InsideFPV,Manufacturing,Plug and Fly Drones,75.0,4.0,1875.0,1,1.0,75.0,15.0,,,3,2.0,1.0,Young,Surat,Gujarat
+2,2023-01-18,Angrakhaa,Beauty/Fashion,Contemporary Indian clothing,40.0,5.0,800.0,1,1.0,40.0,20.0,,,2,,2.0,Young,Delhi,Delhi
+2,2023-01-18,Diabexy,Food and Beverage,Diabetes Friendly Food Products,150.0,1.0,15000.0,1,0.0,,,,,2,1.0,1.0,Middle,Gurgaon,Haryana
+2,2023-01-19,Kyari,Manufacturing,Smart stick Guardian,51.0,1.0,5100.0,1,1.0,51.0,6.0,,,2,1.0,1.0,Young,Ghaziabad,Uttar Pradesh
+2,2023-01-19,MoppFoods,Food and Beverage,Mad over Parathas Pakodas,75.0,2.25,3333.333333,1,1.0,75.0,5.0,,,2,1.0,1.0,Middle,Delhi,Delhi
+2,2023-01-19,Econiture,Green/CleanTech,Furniture from plastic waste,50.0,8.0,625.0,0,,,,,,4,4.0,,Middle,Amaravati,Maharashtra
+2,2023-01-20,Dobiee,Food and Beverage,CANDIES MUSKIEE TOYS,72.0,2.0,3600.0,1,1.0,72.0,6.5,,,2,2.0,,Middle,Shinde,Maharashtra
+2,2023-01-20,FastBeetle,Business Services,Local courier and parcel service,90.0,3.0,3000.0,1,1.0,90.0,7.5,,,2,2.0,,Young,Srinagar,Jammu & Kashmir
+2,2023-01-20,Pflow,Medical/Health,Disposable uroflowmetry system,60.0,1.0,6000.0,1,1.0,60.0,6.0,,,2,1.0,1.0,Middle,Dhule,Maharashtra
+2,2023-01-23,VSMani,Food and Beverage,Coffee and snacks,60.0,1.5,4000.0,1,1.0,19.0,1.0,,,3,3.0,,Middle,Bangalore,Karnataka
+2,2023-01-23,Sepal,Manufacturing,Bike Accessories,50.0,1.0,5000.0,1,1.0,50.0,2.0,,,2,2.0,,Middle,Hyderabad,Telangana
+2,2023-01-23,Solinas,Business Services,"Products organise the management of pipelines,manholes and septic tanks",90.0,2.0,4500.0,1,1.0,90.0,3.0,,,4,3.0,1.0,Middle,Chennai,Tamil Nadu
+2,2023-01-24,AvimeeHerbal,Beauty/Fashion,Ayurveda hair skin products,280.0,0.5,56000.0,1,0.0,,,,,5,3.0,2.0,Middle,Surat,Gujarat
+2,2023-01-24,eyenic,Beauty/Fashion,Eyewear,75.0,6.0,1250.0,0,,,,,,2,2.0,,Middle,Delhi,Delhi
+2,2023-01-24,ekatra,Lifestyle/Home,Handmade paper goods,40.0,10.0,400.0,1,1.0,20.0,20.0,,,2,,2.0,Middle,Kota,Rajasthan
+2,2023-01-25,Raasa,Food and Beverage,Food karts,50.0,5.0,1000.0,1,1.0,50.0,25.0,,,1,1.0,,Middle,Delhi,Delhi
+2,2023-01-25,NeoMotion,Manufacturing,Wheelchairs,100.0,1.0,10000.0,1,1.0,100.0,1.0,,,3,3.0,,Middle,Chennai,Tamil Nadu
+2,2023-01-25,licksters,Food and Beverage,Icecreams ice-pops,50.0,5.0,1000.0,1,1.0,25.0,5.0,,,2,1.0,1.0,Middle,Nagpur,Maharashtra
+2,2023-01-25,Sayonara,Beauty/Fashion,Petticoat,100.0,1.0,10000.0,0,,,,,,1,1.0,,Middle,Kolkata,West Bengal
+2,2023-01-26,PMV,Vehicles/Electrical Vehicles,Personal Mobility Vehicle,100.0,1.0,10000.0,1,0.0,,,,,1,1.0,,Middle,Mumbai,Maharashtra
+2,2023-01-26,SpiceStory,Food and Beverage,Indian Sauces Chutneys,70.0,2.0,3500.0,1,1.0,70.0,5.0,,,3,2.0,1.0,Middle,Mumbai,Maharashtra
+2,2023-01-26,Bullspree,Technology/Software,App to learn stock market basics,75.0,1.5,5000.0,1,1.0,75.0,2.86,,,3,3.0,,Middle,Ahmedabad,Gujarat
+2,2023-01-27,Snitch,Beauty/Fashion,Menswear,150.0,0.5,30000.0,1,1.0,150.0,1.5,,,1,1.0,,Middle,Bangalore,Karnataka
+2,2023-01-27,Portl,Business Services,Portl studio gym,150.0,1.0,15000.0,1,1.0,150.0,2.5,,,3,3.0,,Middle,Hyderabad,Telangana
+2,2023-01-27,FatToSlim,Beauty/Fashion,Diet Plan Weight Loss,20.0,1.0,2000.0,0,,,,,,1,,1.0,Middle,Bangalore,Karnataka
+2,2023-01-30,CheeseCake&Co.,Food and Beverage,Cakes Slices,100.0,2.0,5000.0,1,0.0,,,,,2,1.0,1.0,Middle,Delhi,Delhi
+2,2023-01-30,Dabble,Manufacturing,Paints Crayons Brushes,50.0,10.0,500.0,1,1.0,15.0,10.0,,,2,,2.0,Middle,Bangalore,Karnataka
+2,2023-01-30,CloudTailor,Business Services,Custom tailor online,100.0,1.4,7142.857143,0,,,,,,3,2.0,1.0,Middle,"Bangalore,Hyderabad","Karnataka,Telangana"
+2,2023-01-30,BeUnic,Business Services,Platform for LGBTQ+ creators and entrepreneurs,100.0,10.0,1000.0,1,0.0,,,,,3,1.0,1.0,Middle,Noida,Uttar Pradesh
+2,2023-01-31,Broomees,Business Services,Helpers homemakers for your home,80.0,2.0,4000.0,1,1.0,100.0,3.0,,,3,2.0,1.0,Middle,Delhi,Delhi
+2,2023-01-31,Ravel,Beauty/Fashion,Custom Hair Products,75.0,2.5,3000.0,1,1.0,75.0,10.0,,,1,1.0,,Middle,Amaravati,Maharashtra
+2,2023-01-31,HoneyVeda,Food and Beverage,Honey in natural nutritious form,75.0,7.5,1000.0,1,1.0,50.0,20.0,,,2,2.0,,Middle,Ahmedabad,Gujarat
+2,2023-02-01,PadCare,Manufacturing,Menstrual hygiene disposal solution,50.0,2.0,2500.0,1,1.0,100.0,4.0,,,1,1.0,,Young,Pune,Maharashtra
+2,2023-02-01,SwadeshiBlessings,Lifestyle/Home,Clay utensils and cookwares,50.0,5.0,1000.0,1,1.0,25.0,5.0,,,3,1.0,2.0,Middle,Udaipur,Rajasthan
+2,2023-02-01,OLL,Technology/Software,Online Live Learning Skill development classes,30.0,2.0,1500.0,1,1.0,30.0,5.0,,,1,1.0,,Young,Mumbai,Maharashtra
+2,2023-02-01,Febris,Medical/Health,"Scrubs, Lab Coats & Medical Apparel",100.0,2.5,4000.0,0,,,,,,2,2.0,,Middle,Ferozepur,Punjab
+2,2023-02-02,Geeani,Vehicles/Electrical Vehicles,Smallest EV tractor,75.0,7.5,1000.0,1,1.0,100.0,10.0,,,3,2.0,1.0,Middle,Ahmedabad,Gujarat
+2,2023-02-02,Amore,Food and Beverage,Gelato Ice Cream Online,75.0,4.0,1875.0,1,1.0,75.0,7.5,,,2,2.0,,Middle,"Hyderabad,Mumbai","Telangana,Maharashtra"
+2,2023-02-02,LeafyAffair,Beauty/Fashion,Botanical Jewellery,50.0,2.5,2000.0,0,,,,,,1,1.0,,Middle,Bangalore,Karnataka
+2,2023-02-03,ScrapUncle,Green/CleanTech,Sell scrap recyclables online,60.0,3.0,2000.0,1,1.0,60.0,5.0,,,1,1.0,,Young,Delhi,Delhi
+2,2023-02-03,SharmaJiKiAata,Food and Beverage,Freshly milled atta,40.0,10.0,400.0,1,1.0,40.0,20.0,,,2,1.0,1.0,Middle,Pune,Maharashtra
+2,2023-02-03,Manetain,Beauty/Fashion,Curly Hair Care Products,75.0,2.5,3000.0,1,1.0,75.0,10.0,,,2,,2.0,Young,"Kochi,Mumbai","Kerala,Maharashtra"
+2,2023-02-06,GavinParis,Beauty/Fashion,Gender-Neutral Fashion,50.0,5.0,1000.0,1,0.0,,,,,2,2.0,,Young,Kolkata,West Bengal
+2,2023-02-06,UnStop,Technology/Software,Connecting talent colleges recruiters,100.0,1.0,10000.0,1,1.0,200.0,4.0,,,1,1.0,,Middle,Delhi,Delhi
+2,2023-02-06,BlueTea,Food and Beverage,Ayurvedic Herbal Tea,75.0,1.0,7500.0,1,1.0,50.0,3.0,,,2,2.0,,Middle,"Faridabad,Kolkata","Haryana,West Bengal"
+2,2023-02-07,TheGreenSnack,Food and Beverage,Healthy Snacks Online,100.0,2.0,5000.0,1,1.0,100.0,8.0,,,2,1.0,1.0,Middle,Mumbai,Maharashtra
+2,2023-02-07,HobbyIndia,Lifestyle/Home,Online Art & Craft Store,50.0,3.0,1666.666667,1,0.0,,,,,3,1.0,2.0,Young,Surat,Gujarat
+2,2023-02-07,Flhexible,Lifestyle/Home,Composite paper honeycomb panels,50.0,7.5,666.6666667,0,,,,,,2,1.0,1.0,Middle,Jaipur,Rajasthan
+2,2023-02-07,UpThrust,Fitness/Sports/Outdoors,ESPORTS AND GAMING ORGANISATION,75.0,3.0,2500.0,0,,,,,,2,2.0,,Young,Mumbai,Maharashtra
+2,2023-02-08,Zoff,Food and Beverage,Cool Grind Technology Indian Spices,100.0,0.5,20000.0,1,1.0,100.0,1.25,,,2,2.0,,Middle,Raipur,Chhattisgarh
+2,2023-02-08,DesiToys,Manufacturing,Indian Traditional Toys and Indoor Games,50.0,3.0,1666.666667,1,0.0,,,,,1,,1.0,Middle,Mumbai,Maharashtra
+2,2023-02-08,CloudWorx,Technology/Software,NoCode Enterprise Metaverse App Builder,40.0,2.0,2000.0,1,1.0,40.0,3.2,,,1,1.0,,Middle,Bangalore,Karnataka
+2,2023-02-09,Mahantam,Manufacturing,Tea Glass Washing Machine,30.0,10.0,300.0,1,1.0,30.0,20.0,,,2,2.0,,Young,Banaskantha,Gujarat
+2,2023-02-09,MindPeers,Medical/Health,For Mental Strength,53.0,1.0,5300.0,1,1.0,106.0,2.0,,,2,1.0,1.0,Middle,Delhi,Delhi
+2,2023-02-09,Barosi,Food and Beverage,Fresh & pure milk products,50.0,2.0,2500.0,0,,,,,,1,1.0,,Middle,Pataudi,Haryana
+2,2023-02-10,Daryaganj,Food and Beverage,North Indian Cuisine restaurant,90.0,0.5,18000.0,1,1.0,90.0,1.0,,,3,3.0,,Middle,Delhi,Delhi
+2,2023-02-10,DhruvVidyut,Vehicles/Electrical Vehicles,Invention converts cycle into an electric cycle,0.0,0.5,0.0,1,1.0,0.0,0.5,,,1,1.0,,Middle,Delhi,Delhi
+2,2023-02-10,CELLBELL,Lifestyle/Home,Gaming Office Chairs,90.0,1.5,6000.0,0,,,,,,3,3.0,,Middle,Ulhasnagar,Maharashtra
+2,2023-02-13,Tipayi,Manufacturing,Balance Bike for Kids,50.0,10.0,500.0,1,0.0,,,,,1,1.0,,Young,Pune,Maharashtra
+2,2023-02-13,DigiQure,Medical/Health,Book Doctors Appointments Video Consultation,40.0,4.0,1000.0,1,1.0,40.0,10.0,,,2,2.0,,Middle,Bhopal,Madhya Pradesh
+2,2023-02-13,Nirmalaya,Manufacturing,Incense products made from temple flowers,60.0,1.5,4000.0,0,,,,,,3,2.0,1.0,Middle,Delhi,Delhi
+2,2023-02-14,Pabiben,Beauty/Fashion,Handcrafted products sold directly by artisans,50.0,5.0,1000.0,1,1.0,10.0,5.0,,,2,1.0,1.0,Middle,Ahmedabad,Gujarat
+2,2023-02-14,Homestrap,Lifestyle/Home,Collection of organizer for home and travelling,70.0,1.0,7000.0,1,1.0,50.0,7.0,,,2,1.0,1.0,Middle,Indore,Madhya Pradesh
+2,2023-02-14,uBreathe,Manufacturing,Smart Natural Air Purifier,150.0,7.5,2000.0,1,1.0,50.0,5.0,,,2,2.0,,Middle,Gurgaon,Haryana
+2,2023-02-14,Deyor,Technology/Software,Chatbot integrated experiential travel website,100.0,1.0,10000.0,0,,,,,,2,2.0,,Middle,Gurgaon,Haryana
+2,2023-02-15,iMumz,Medical/Health,Transforming pregnancy and parenting with app,70.0,1.0,7000.0,1,1.0,10.0,1.0,,,3,2.0,1.0,Middle,Bangalore,Karnataka
+2,2023-02-15,TheHealthyBinge,Food and Beverage,Assorted Pack Baked Chips,50.0,5.0,1000.0,1,1.0,50.0,5.0,,,2,2.0,,Middle,Pune,Maharashtra
+2,2023-02-15,Freakins,Beauty/Fashion,Fashionable Denim Apparel,70.0,1.0,7000.0,1,1.0,50.0,2.5,,,2,2.0,,Middle,Mumbai,Maharashtra
+2,2023-02-16,Perfora,Lifestyle/Home,Toothpaste Electric Toothbrush,80.0,1.0,8000.0,1,1.0,80.0,2.5,,,2,2.0,,Young,"Ballarpur,Karnal","Haryana,Maharashtra"
+2,2023-02-16,MidNightAngelsByPC,Beauty/Fashion,Lounge & Travel wear,75.0,6.0,1250.0,1,0.0,,,,,2,,2.0,Middle,Gurgaon,Haryana
+2,2023-02-16,CureSee,Medical/Health,Artificial Intelligence (AI) based vision therapy,40.0,5.0,800.0,1,1.0,50.0,10.0,,,3,3.0,,Middle,Gurgaon,Haryana
+2,2023-02-17,MeduLance,Medical/Health,One-stop solution for all healthcare needs,200.0,1.0,20000.0,1,1.0,200.0,2.0,,,2,2.0,,Middle,Delhi,Delhi
+2,2023-02-17,Cakelicious,Food and Beverage,Cakes Online,25.0,5.0,500.0,1,1.0,25.0,20.0,,,2,,2.0,Middle,Kolkata,West Bengal
+2,2023-02-17,Bowled.io,Fitness/Sports/Outdoors,Play-to-Earn Social Gaming Platform,80.0,1.0,8000.0,0,,,,,,2,2.0,,Middle,Mumbai,Maharashtra
+2,2023-02-17,Toyshine,Manufacturing,Collection of Toys,125.0,0.5,25000.0,0,,,,,,1,1.0,,Middle,Jalandhar,Punjab
+2,2023-02-20,neuphony,Medical/Health,Wearable EEG Headband,100.0,2.0,5000.0,1,1.0,100.0,5.4,,,2,1.0,1.0,Young,Noida,Uttar Pradesh
+2,2023-02-20,Amrutam,Food and Beverage,Ayurvedic Lifestyle products,50.0,2.0,2500.0,0,,,,,,3,2.0,1.0,Middle,Gwalior,Madhya Pradesh
+2,2023-02-20,HoloKitab,Technology/Software,Augmented Reality content for books,45.0,10.0,450.0,1,1.0,45.0,25.0,,,2,2.0,,Middle,Jalandhar,Punjab
+2,2023-02-21,Zoe,Food and Beverage,Nutrition For Life. Shop health & wellness products,75.0,5.0,1500.0,0,,,,,,2,1.0,1.0,Middle,Gurgaon,Haryana
+2,2023-02-21,Hornback,Vehicles/Electrical Vehicles,Diamond frame folding bicycles,50.0,1.0,5000.0,1,1.0,50.0,2.5,,,2,2.0,,Middle,Hyderabad,Telangana
+2,2023-02-21,Malaki,Food and Beverage,Non-Alcoholic Beverages,50.0,1.0,5000.0,1,1.0,50.0,3.0,,,2,2.0,,Middle,Mumbai,Maharashtra
+2,2023-02-21,nanoclean,Manufacturing,Contamination Control Solutions,80.0,2.0,4000.0,0,,,,,,1,1.0,,Middle,Bikaner,Rajasthan
+2,2023-02-22,DesmondJi,Liquor/Alcohol,"Spirits, Liqueurs & Cocktail Blends",100.0,1.0,10000.0,0,,,,,,2,2.0,,Middle,Goa,Goa
+2,2023-02-22,Cremeitalia,Food and Beverage,Fresh Italian Cheese Products,90.0,1.5,6000.0,0,,,,,,1,1.0,,Middle,Mumbai,Maharashtra
+2,2023-02-22,nawgati,Business Services,Congestion Management for Fuel Stations,67.0,2.0,3350.0,1,1.0,67.0,3.0,,,3,3.0,,Young,Noida,Uttar Pradesh
+2,2023-02-22,Swytchd,Vehicles/Electrical Vehicles,All-inclusive Electric Vehicle Subscription,50.0,3.0,1666.666667,0,,,,,,1,1.0,,Middle,Bangalore,Karnataka
+2,2023-02-23,GladFul,Food and Beverage,Natural High Protein Rich & Healthy Foods,50.0,2.0,2500.0,1,1.0,50.0,3.5,,,2,1.0,1.0,Middle,Jaipur,Rajasthan
+2,2023-02-23,Pharmallama,Medical/Health,Simplified pharmacy,100.0,1.5,6666.666667,1,1.0,200.0,5.0,,,3,3.0,,Middle,Bangalore,Karnataka
+2,2023-02-23,CraveRajaFoods,Food and Beverage,Cloud-kitchen service,65.0,3.0,2166.666667,0,,,,,,2,2.0,,Middle,Kolkata,West Bengal
+2,2023-02-23,VAPerfume,Lifestyle/Home,"Devotional, meditational, and romantic incense",100.0,10.0,1000.0,0,,,,,,1,1.0,,Middle,Mumbai,Maharashtra
+2,2023-02-24,Hood,Technology/Software,Pseudonymous social network,120.0,0.2,60000.0,1,1.0,60.0,0.54,,,3,3.0,,Middle,Gurgaon,Haryana
+2,2023-02-24,TwistingScoops,Food and Beverage,Authentic turkish ice cream,100.0,2.5,4000.0,1,0.0,,,,,2,2.0,,Young,Delhi,Delhi
+2,2023-02-24,GROWiT,Agriculture,Protective farming products,100.0,1.0,10000.0,1,1.0,50.0,1.0,,,2,2.0,,Middle,Surat,Gujarat
+2,2023-02-27,Makino,Food and Beverage,Nachos & Nuts,200.0,2.0,10000.0,0,,,,,,4,4.0,,Young,Himmatnagar,Gujarat
+2,2023-02-27,Trunome,Medical/Health,Post Transplant Care,150.0,1.0,15000.0,1,1.0,150.0,2.0,,,2,2.0,,Middle,Chennai,Tamil Nadu
+2,2023-02-27,Wol3D,Manufacturing,3D printing technology,150.0,1.0,15000.0,1,1.0,80.0,2.0,,,4,2.0,2.0,Middle,Mumbai,Maharashtra
+2,2023-02-27,What'sUpWellness,Food and Beverage,Wellness in the form of quick bites,50.0,3.0,1666.666667,1,1.0,60.0,4.76,,,2,1.0,1.0,Middle,Kolkata,West Bengal
+2,2023-02-28,ProostBeer,Food and Beverage,Freshly brewed beer,100.0,0.75,13333.33333,0,,,,,,2,2.0,,Middle,Delhi,Delhi
+2,2023-02-28,DrCubes,Food and Beverage,Frozen Fresh cubes,80.0,15.0,533.3333333,0,,,,,,2,2.0,,Middle,Bangalore,Karnataka
+2,2023-02-28,MetroRide,Vehicles/Electrical Vehicles,Metro Shuttle Service Access Transportation,75.0,1.0,7500.0,0,,,,,,2,2.0,,Middle,Bangalore,Karnataka
+2,2023-02-28,Conker,Technology/Software,Skill Based Learning Online Courses,40.0,1.0,4000.0,0,,,,,,1,1.0,,Middle,Bangalore,Karnataka
+2,2023-03-01,WTF,Food and Beverage,Where's The Food,75.0,5.0,1500.0,0,,,,,,1,1.0,,Middle,Kolkata,West Bengal
+2,2023-03-01,funngro,Technology/Software,Smart Teens work with Smart companies,50.0,1.25,4000.0,1,1.0,50.0,4.16,,,3,1.0,2.0,Middle,Mumbai,Maharashtra
+2,2023-03-01,Aadvik,Food and Beverage,Buy Camel & Goat Milk,60.0,1.5,4000.0,1,1.0,15.0,1.5,,,2,2.0,,Middle,Delhi,Delhi
+2,2023-03-01,oyehappy,Business Services,"Unique Gifts, Customized Gifts, Romantic Gifts, Thoughtful Gifts",50.0,1.0,5000.0,0,,,,,,2,2.0,,Middle,Hyderabad,Telangana
+2,2023-03-02,HealthyMaster,Food and Beverage,"Online Dry Fruits, Snacks, Berries, Chips",50.0,2.0,2500.0,1,1.0,50.0,6.5,,,3,1.0,2.0,Middle,Bangalore,Karnataka
+2,2023-03-02,Kitsons,Lifestyle/Home,"Stationery, Art & Craft, Books & Toy Retail Space",1000.0,10.0,10000.0,0,,,,,,3,3.0,,Middle,Hyderabad,Telangana
+2,2023-03-02,LondonBubble,Food and Beverage,Waffle Chips Online,75.0,5.0,1500.0,1,1.0,75.0,15.0,,,2,2.0,,Middle,Mumbai,Maharashtra
+2,2023-03-02,WaggyZone,Animal/Pets,"Ice Cream Treat for Dogs, Puppies and Cats",50.0,5.0,1000.0,0,,,,,,1,,1.0,Middle,Mumbai,Maharashtra
+2,2023-03-03,NutriCook,Food and Beverage,"Smart Pots, Air Fryers, Air Fryer Oven",100.0,2.0,5000.0,1,1.0,50.0,10.0,,,2,1.0,1.0,Middle,"Bangalore,Punganur","Karnataka,Andhra Pradesh"
+2,2023-03-03,Subhag,Medical/Health,Health-tech IUI Treatment Procedure for Infertility,50.0,1.0,5000.0,1,1.0,20.0,1.0,,,3,3.0,,Middle,"Jhumri Telaiya,Raipur","Jharkhand,Chhattisgarh"
+2,2023-03-03,SinghStyled,Beauty/Fashion,Sikh Gentleman to maintain their Guru-gifted identity,50.0,5.0,1000.0,1,1.0,50.0,10.0,,,2,2.0,,Middle,Mumbai,Maharashtra
+2,2023-03-06,ZSportsTech,Fitness/Sports/Outdoors,Cricket Sport Shop,60.0,2.0,3000.0,0,,,,,,2,2.0,,Middle,Mumbai,Maharashtra
+2,2023-03-06,ThePlatedProject,Business Services,Decor Plates & Dinnerware,75.0,2.0,3750.0,1,1.0,75.0,3.75,,,1,1.0,,Middle,Mumbai,Maharashtra
+2,2023-03-06,VsnapU,Business Services,Professional Photography service,50.0,1.5,3333.333333,0,,,,,,4,4.0,,Middle,Goa,Goa
+2,2023-03-06,TheHealthyFactory,Food and Beverage,Protein bread,75.0,2.1,3571.428571,0,,,,,,2,2.0,,Young,Mumbai,Maharashtra
+2,2023-03-07,Brevistay,Business Services,Booking hotels for hours,100.0,1.66,6024.096386,0,,,,,,5,5.0,,Young,"Dehradun,Nainital,Lucknow","Uttarakhand,Uttar Pradesh"
+2,2023-03-07,SoulUp,Business Services,Real Conversations Real People,50.0,3.0,1666.666667,1,1.0,50.0,5.0,,,2,,2.0,Middle,Bangalore,Karnataka
+2,2023-03-07,TheBigBookBox ChapterOneBooks,Lifestyle/Home,New paperback and hardcover books,50.0,8.0,625.0,0,,,,,,2,1.0,1.0,Middle,Gopalganj,Bihar
+2,2023-03-08,Rubans,Beauty/Fashion,Artificial Jewellery Set Online,150.0,0.5,30000.0,1,1.0,100.0,1.0,,,2,1.0,1.0,Middle,Bangalore,Karnataka
+2,2023-03-08,SameNotification,Technology/Software,parental monitoring app,25.0,15.0,166.6666667,0,,,,,,1,1.0,,Middle,"Ahmedabad,Mirzapur","Gujarat,Uttar Pradesh"
+2,2023-03-08,BottomLineSprays,Lifestyle/Home,portable jet spray,35.0,5.0,700.0,0,,,,,,2,1.0,1.0,Middle,Ahmedabad,Gujarat
+2,2023-03-08,LilGoodness,Food and Beverage,Healthy Snacks,100.0,1.0,10000.0,1,1.0,50.0,1.0,,,2,2.0,,Middle,Bangalore,Karnataka
+2,2023-03-09,ForeverModest,Beauty/Fashion,premium Muslim women's clothing,20.0,10.0,200.0,1,1.0,20.0,20.0,,,1,,1.0,Young,Aurangabad,Maharashtra
+2,2023-03-09,Sahayatha,Medical/Health,smart wheelchair with an assistive cleansing device,100.0,10.0,1000.0,1,1.0,100.0,10.0,,,1,,1.0,Young,Coimbatore,Tamil Nadu
+2,2023-03-09,WickedGud,Food and Beverage,High Protein & Fiber Gluten Free Vegan food,50.0,1.0,5000.0,0,,,,,,3,3.0,,Middle,Mumbai,Maharashtra
+2,2023-03-09,maisha,Beauty/Fashion,Handmade Cotton & Jacquard Bags,75.0,3.0,2500.0,1,1.0,10.0,1.0,,,3,2.0,1.0,Middle,Ahmedabad,Gujarat
+2,2023-03-10,NishHair,Beauty/Fashion,100% Human Hair Extensions,100.0,2.0,5000.0,1,1.0,100.0,2.0,,,1,,1.0,Middle,Mumbai,Maharashtra
+2,2023-03-10,MYBYK,Vehicles/Electrical Vehicles,IoT-enabled bikes,200.0,1.0,20000.0,0,,,,,,1,1.0,,Middle,Ahmedabad,Gujarat
+2,2023-03-10,GODESi,Food and Beverage,Handmade lollipops,90.0,0.5,18000.0,1,0.0,,,,Vikas D Nahar,2,1.0,1.0,Middle,Bangalore,Karnataka
+2,2023-03-10,TAC,Beauty/Fashion,"ayurveda co for glowing skin, makeup & open pores",150.0,0.5,30000.0,1,1.0,81.0,1.0,Vikas D Nahar,Vikas D Nahar,2,1.0,1.0,Middle,Mumbai,Maharashtra
+2,2023-03-10,Naara-Aaba,Liquor/Alcohol,pears and plum wine,75.0,2.5,3000.0,1,1.0,50.0,5.0,Vikas D Nahar,Vikas D Nahar,2,1.0,1.0,Middle,Ziro,Arunachal Pradesh
+2,2023-03-10,StyloBug,Beauty/Fashion,Girls Dresses Online,80.0,2.0,4000.0,1,1.0,80.0,10.0,,Vikas D Nahar,2,1.0,1.0,Middle,Delhi,Delhi
+2,,ZenOnco,Medical/Health,saving lives from cancer,100.0,1.0,10000.0,1,0.0,,,,Vikas D Nahar,2,1.0,1.0,Middle,Jodhpur,Rajasthan
+3,2024-01-22,HonestHome,Green/CleanTech,Eco friendly products,100.0,2.0,5000.0,1,1.0,100.0,3.0,,,1,1.0,,Middle,Dhampur,Uttar Pradesh
+3,2024-01-22,AdilQadri,Beauty/Fashion,Perfumes and Attar,100.0,0.5,20000.0,1,1.0,100.0,1.0,,,1,1.0,,Young,Bilimora,Gujarat
+3,2024-01-22,ConsciousChemist,Beauty/Fashion,Skincare Products,60.0,2.0,3000.0,0,,,,,,2,2.0,,Middle,Jaipur,Rajasthan
+3,2024-01-23,TheCinnamonKitchen,Food and Beverage,Plant-based healthy snacks,60.0,2.0,3000.0,1,1.0,60.0,5.0,,Deepinder Goyal,1,,1.0,Middle,Chandigarh,Punjab
+3,2024-01-23,WtfGyms,Business Services,Gyms service,100.0,2.0,5000.0,0,,,,,Deepinder Goyal,2,1.0,1.0,Middle,Noida,Uttar Pradesh
+3,2024-01-23,Intervue,Technology/Software,Conducts technical interviews online,150.0,1.0,15000.0,1,1.0,150.0,2.0,,Deepinder Goyal,2,2.0,,Young,"Ludhiana,Ghaziabad","Punjab,Uttar Pradesh"
+3,2024-01-24,RodBez,Vehicles/Electrical Vehicles,Taxi-service for Bihar,50.0,5.0,1000.0,1,1.0,20.0,5.0,,,2,2.0,,Middle,Saharsa,Bihar
+3,2024-01-24,Blix,Technology/Software,Robotics toys,80.0,2.0,4000.0,1,1.0,80.0,4.0,,,1,1.0,,Middle,Mumbai,Maharashtra
+3,2024-01-24,Homversity,Technology/Software,Digital student housing app,65.0,2.0,3250.0,0,,,,,,1,1.0,,Young,Ahmedabad,Gujarat
+3,2024-01-25,TURMS,Beauty/Fashion,Intelligent Clothing,120.0,2.0,6000.0,1,1.0,120.0,4.0,Azhar Iqubal,Azhar Iqubal,1,1.0,,Old,Bangalore,Karnataka
+3,2024-01-25,mintree,Beauty/Fashion,Skincare products,90.0,1.0,9000.0,1,1.0,90.0,1.5,Azhar Iqubal,Azhar Iqubal,1,,1.0,Middle,Nagpur,Maharashtra
+3,2024-01-25,80Wash,Manufacturing,Waterless washing machine,100.0,2.5,4000.0,0,,,,,Azhar Iqubal,3,3.0,,Middle,Chandigarh,Punjab
+3,2024-01-26,DilFoods,Food and Beverage,Virtual restaurant service,50.0,0.5,10000.0,1,1.0,200.0,2.67,Radhika Gupta,Radhika Gupta,1,,1.0,Middle,Ranchi,Jharkhand
+3,2024-01-26,AIKavach/Panoplia,Technology/Software,Online security app,50.0,1.25,4000.0,1,1.0,100.0,2.5,,Radhika Gupta,1,,1.0,Middle,Hyderabad,Telangana
+3,2024-01-26,Bartisans,Liquor/Alcohol,Cocktail Mocktail mixers,100.0,2.5,4000.0,1,0.0,,,,Radhika Gupta,2,1.0,1.0,Middle,Mumbai,Maharashtra
+3,2024-01-29,Aretto,Manufacturing,Expandable Shoes For Kids,80.0,1.0,8000.0,0,,,,,,1,1.0,,Middle,Pune,Maharashtra
+3,2024-01-29,Kalakaram,Manufacturing,"Unique, creative and exciting DIY kits for all ages",50.0,2.5,2000.0,1,1.0,60.0,6.0,,,1,1.0,,Middle,Gurgaon,Haryana
+3,2024-01-29,NabhiSutra,Beauty/Fashion,Navel Ayurvedic Oils Online,60.0,3.0,2000.0,0,,,,,,2,1.0,1.0,Middle,Vadodara,Gujarat
+3,2024-01-30,Zorko,Food and Beverage,Quick service restaurant,150.0,1.0,15000.0,1,0.0,,,,,2,2.0,,Young,Surat,Gujarat
+3,2024-01-30,Tramboo,Fitness/Sports/Outdoors,Kashmir willow bats,30.0,3.0,1000.0,1,1.0,30.0,4.0,,,2,2.0,,Young,Srinagar,Jammu & Kashmir
+3,2024-01-30,WeHear,Medical/Health,Hearing Solutions,250.0,1.0,25000.0,1,1.0,250.0,1.0,,,2,2.0,,Middle,Ahmedabad,Gujarat
+3,2024-01-31,Tiggle,Food and Beverage,Chocolate mixes,50.0,5.0,1000.0,1,1.0,50.0,20.0,,Azhar Iqubal,1,,1.0,Young,Agra,Uttar Pradesh
+3,2024-01-31,WYLDCard,Technology/Software,Customer as Infulencer,50.0,0.5,10000.0,1,1.0,75.0,1.5,,Azhar Iqubal,3,3.0,,Middle,Mumbai,Maharashtra
+3,2024-01-31,upliance.ai,Lifestyle/Home,Smart Cooker,100.0,1.0,10000.0,1,0.0,,,,Azhar Iqubal,2,2.0,,Middle,Bangalore,Karnataka
+3,2024-02-01,PizzaGalleria,Food and Beverage,100% Veg Pizza,100.0,2.0,5000.0,0,,,,,Deepinder Goyal,2,2.0,,Middle,Gohana,Haryana
+3,2024-02-01,AiCars,Vehicles/Electrical Vehicles,Hydrogen powered AI Car,200.0,4.0,5000.0,0,,,,,Deepinder Goyal,1,1.0,,Young,Yavatmal,Maharashtra
+3,2024-02-01,RooftopApp,Technology/Software,Art Learning platform,200.0,4.0,5000.0,0,,,,,Deepinder Goyal,1,1.0,,Middle,Mumbai,Maharashtra
+3,2024-02-02,GoenchiFeni,Liquor/Alcohol,Alcohol brand,100.0,5.0,2000.0,1,1.0,200.0,15.0,Deepinder Goyal,Deepinder Goyal,2,1.0,1.0,Middle,Goa,Goa
+3,2024-02-02,Arata,Beauty/Fashion,Hair care,100.0,1.25,8000.0,1,1.0,100.0,1.33,,Deepinder Goyal,2,2.0,,Middle,Delhi,Delhi
+3,2024-02-02,Vecros,Technology/Software,Spatial AI drone,100.0,2.5,4000.0,1,1.0,20.0,1.0,,Deepinder Goyal,2,1.0,1.0,Young,Delhi,Delhi
+3,2024-02-05,GudGum,Food and Beverage,Healthy Chewing Gum brand,50.0,5.0,1000.0,1,1.0,80.0,10.0,,,2,2.0,,Young,Bangalore,Karnataka
+3,2024-02-05,EvaScalp,Medical/Health,Post Chemo Scalp Cooling brand,30.0,1.2,2500.0,1,1.0,30.0,1.8,,,1,1.0,,Middle,Mumbai,Maharashtra
+3,2024-02-05,Elitty,Beauty/Fashion,Teenage Make-up,100.0,4.0,2500.0,1,0.0,,,,,2,,2.0,Middle,Gurgaon,Haryana
+3,2024-02-06,HoneyTwigs,Food and Beverage,Honey products,75.0,3.0,2500.0,1,1.0,75.0,3.0,,,3,3.0,,Middle,Delhi,Delhi
+3,2024-02-06,Koparo,Food and Beverage,Coconut based Cleaning Products,70.0,1.0,7000.0,1,1.0,70.0,1.0,,,1,,1.0,Middle,Delhi,Delhi
+3,2024-02-06,2Ballz,Beauty/Fashion,Mens Innerwear,30.0,5.0,600.0,0,,,,,,3,3.0,,Middle,Indore,Madhya Pradesh
+3,2024-02-07,JewelBox,Beauty/Fashion,Lab Grown Diamond Jewellery Brand,100.0,2.0,5000.0,1,1.0,200.0,6.0,Radhika Gupta,Radhika Gupta,2,1.0,1.0,Middle,Kolkata,West Bengal
+3,2024-02-07,DaakRoom,Business Services,Letter Writing Services,36.0,4.0,900.0,1,1.0,36.0,6.0,,Radhika Gupta,2,,2.0,Middle,Delhi,Delhi
+3,2024-02-07,Nuvedo,Food and Beverage,Mushroom Growing Service,50.0,3.0,1666.666667,0,,,,,Radhika Gupta,2,1.0,1.0,Middle,Bangalore,Karnataka
+3,2024-02-08,WALK,Medical/Health,Wearable Mobility Aid,50.0,1.5,3333.333333,1,1.0,50.0,2.3,,,1,1.0,,Young,Mumbai,Maharashtra
+3,2024-02-08,RajaRaniCoaching,Beauty/Fashion,Clothes Tailoring Academy,130.0,5.0,2600.0,1,0.0,,,,,2,1.0,1.0,Young,Surat,Gujarat
+3,2024-02-08,DecodeAge,Medical/Health,Age Longetivity Supplements,100.0,1.25,8000.0,1,1.0,100.0,2.25,,,3,3.0,,Middle,Bangalore,Karnataka
+3,2024-02-09,ALittleExtra,Beauty/Fashion,Hand Made Fabric Jewellery,48.0,6.0,800.0,1,1.0,60.0,7.5,,,1,,1.0,Middle,Guwahati,Assam
+3,2024-02-09,Assembly,Beauty/Fashion,Travel Bags,85.0,1.0,8500.0,1,0.0,,,,,2,2.0,,Middle,Gurugram,Haryana
+3,2024-02-09,NasherMiles,Beauty/Fashion,Travel Bags,300.0,0.75,40000.0,1,1.0,300.0,1.5,,,3,2.0,1.0,Middle,Mumbai,Maharashtra
+3,2024-02-12,AltCo,Food and Beverage,Plant based dairy products,150.0,2.0,7500.0,0,,,,,"Ronnie Screwvala,Radhika Gupta",2,2.0,,Middle,Bangalore,Karnataka
+3,2024-02-12,Without,Beauty/Fashion,Products made from Waste Plastic,75.0,1.0,7500.0,1,1.0,75.0,3.0,Ronnie Screwvala,"Ronnie Screwvala,Radhika Gupta",1,1.0,,Middle,Pune,Maharashtra
+3,2024-02-12,Kibo,Technology/Software,TrestleLabs Optical Character Recognition,60.0,1.0,6000.0,1,1.0,60.0,6.0,Ronnie Screwvala,"Ronnie Screwvala,Radhika Gupta",2,1.0,1.0,Middle,"Faridabad,Ahmedabad","Haryana,Gujarat"
+3,2024-02-13,VOLD,Food and Beverage,Energy Drink,50.0,2.0,2500.0,1,1.0,10.0,10.0,,,1,1.0,,Young,Ahmednagar,Maharashtra
+3,2024-02-13,Quirksmith,Beauty/Fashion,Jewellery,80.0,1.0,8000.0,1,0.0,,,,,2,,2.0,Middle,Agra,Uttar Pradesh
+3,2024-02-13,UrbanSpace,Lifestyle/Home,Home Interiors,180.0,1.0,18000.0,1,0.0,,,,,2,1.0,1.0,Middle,Ahmedabad,Gujarat
+3,2024-02-14,HyperLab,Fitness/Sports/Outdoors,"Sports analytics for agility, strength, reflexes, and stamina",10.0,1.0,1000.0,1,1.0,25.0,1.0,,,3,3.0,,Young,Ahmedabad,Gujarat
+3,2024-02-14,EcoBiotraps,Green/CleanTech,Mosquito Breeding Prevention,50.0,2.0,2500.0,1,0.0,,,,,3,2.0,1.0,Middle,"Ahmedabad,Pune","Gujarat,Maharashtra"
+3,2024-02-14,Hoora,Technology/Software,Auto Care App,80.0,2.0,4000.0,0,,,,,,2,2.0,,Middle,Nagpur,Maharashtra
+3,2024-02-15,YesMadam,Beauty/Fashion,Saloon service app,150.0,0.5,30000.0,1,1.0,150.0,2.0,,Radhika Gupta,4,3.0,1.0,Middle,Delhi,Delhi
+3,2024-02-15,Zerodor,Lifestyle/Home,Waterless Urinal Technology,100.0,3.0,3333.333333,1,0.0,,,,Radhika Gupta,2,2.0,,Middle,"Ahmedabad,Mumbai","Gujarat,Maharashtra"
+3,2024-02-15,ToffeeCoffeeRoasters,Food and Beverage,Coffee brand,60.0,2.0,3000.0,1,1.0,35.0,2.33,,Radhika Gupta,2,1.0,1.0,Middle,Bangalore,Karnataka
+3,2024-02-16,PushSports,Fitness/Sports/Outdoors,Kids & young adults for recreation & professional sport,80.0,1.0,8000.0,1,1.0,80.0,4.0,,Azhar Iqubal,2,2.0,,Middle,Delhi,Delhi
+3,2024-02-16,ORBO,Technology/Software,AI-powered tools for beauty brands,100.0,0.75,13333.33333,1,1.0,100.0,1.0,,Azhar Iqubal,3,3.0,,Middle,Mumbai,Maharashtra
+3,2024-02-16,CannazoIndia,Beauty/Fashion,"Medical cannabis, alternative medications",150.0,5.0,3000.0,1,0.0,,,,Azhar Iqubal,3,2.0,1.0,Middle,Mumbai,Maharashtra
+3,2024-02-19,Chefling,Food and Beverage,DIY Food Products,40.0,10.0,400.0,1,1.0,40.0,16.0,Azhar Iqubal,Azhar Iqubal,1,1.0,,Young,Mumbai,Maharashtra
+3,2024-02-19,IntenseFocus,Beauty/Fashion,Designer Eye Wear,500.0,5.0,10000.0,0,,,,,Azhar Iqubal,1,1.0,,Middle,,
+3,2024-02-19,MilletAmma,Food and Beverage,Millet based Products,100.0,3.0,3333.333333,0,,,,,Azhar Iqubal,2,1.0,1.0,Middle,Bangalore,Karnataka
+3,2024-02-20,D'chica,Beauty/Fashion,Innerwears for Teenage Girls,80.0,1.0,8000.0,1,1.0,80.0,2.0,,,2,,2.0,Middle,Delhi,Delhi
+3,2024-02-20,Refit,Electronics,Refurbished Phones,200.0,0.5,40000.0,1,1.0,200.0,1.0,,,2,2.0,,Middle,Delhi,Delhi
+3,2024-02-20,HouseOfBeautyIndia,Beauty/Fashion,Skin care Products,150.0,5.0,3000.0,0,,,,,,1,,1.0,Middle,Delhi,Delhi
+3,2024-02-21,Artinci,Food and Beverage,Zero Sugar Desserts,50.0,1.75,2857.142857,1,1.0,50.0,5.0,,,2,1.0,1.0,Middle,Bangalore,Karnataka
+3,2024-02-21,TheRageRoom,Business Services,Anger Management activities,20.0,30.0,66.66666667,0,,,,,,1,1.0,,Middle,Hyderabad,Telangana
+3,2024-02-21,Aastey,Beauty/Fashion,Athleisure Wear Company,80.0,2.0,4000.0,0,,,,,,2,,2.0,Middle,"Delhi,Mumbai","Delhi,Maharashtra"
+3,2024-02-22,Matri,Medical/Health,Period Pain Relieving Devices,60.0,4.0,1500.0,1,1.0,60.0,4.0,,,2,2.0,,Middle,Kolkata,West Bengal
+3,2024-02-22,Rubbabu,Manufacturing,Rubber Foam Toys for kids,200.0,5.0,4000.0,0,,,,,,3,1.0,2.0,Old,Delhi,Delhi
+3,2024-02-22,GulaboJaipur,Beauty/Fashion,Traditional Jaipur Clothing,90.0,1.0,9000.0,0,,,,,,2,1.0,1.0,Middle,Jaipur,Rajasthan
+3,2024-02-23,AristaVault,Manufacturing,Follow me suitcases,45.0,1.5,3000.0,1,1.0,20.0,1.0,,"Varun Dua,Radhika Gupta",2,1.0,1.0,Middle,Delhi,Delhi
+3,2024-02-23,ToHands,Technology/Software,App to sync transactions with calculator,55.0,1.0,5500.0,1,1.0,60.0,2.0,"Varun Dua,Radhika Gupta","Varun Dua,Radhika Gupta",3,3.0,,Young,"Erode,Kanpur","Tamil Nadu,Uttar Pradesh"
+3,2024-02-23,PlusGold,Technology/Software,Jewellery savings app that integrates digital gold investment,60.0,1.0,6000.0,1,1.0,60.0,1.5,Varun Dua,"Varun Dua,Radhika Gupta",2,2.0,,Middle,Bangalore,Karnataka
+3,2024-02-26,Aroleap,Medical/Health,Smart Home Gym,100.0,2.5,4000.0,1,1.0,100.0,5.0,Azhar Iqubal,Azhar Iqubal,3,3.0,,Middle,Bangalore,Karnataka
+3,2024-02-26,Cosmix,Medical/Health,Herbal Super Supplements,100.0,1.0,10000.0,1,1.0,100.0,1.0,,Azhar Iqubal,2,1.0,1.0,Middle,,
+3,2024-02-26,Fabriclore,Beauty/Fashion,Custom Fabric Sourcing,68.7,1.0,6870.0,0,,,,,Azhar Iqubal,3,3.0,,Middle,Jaipur,Rajasthan
+3,2024-02-27,PolishMePretty,Beauty/Fashion,Nail Art Brand,25.0,25.0,100.0,1,1.0,25.0,25.0,,,1,,1.0,Young,Pune,Maharashtra
+3,2024-02-27,GridMats,Manufacturing,PotHoleRaja Mats for Concrete Road making,500.0,2.0,25000.0,0,,,,,,2,2.0,,Middle,,
+3,2024-02-27,UnclePetersPanCakes,Food and Beverage,Pancake focused QSR,60.0,2.0,3000.0,1,1.0,60.0,3.0,,,2,2.0,,Middle,"Kolkata,Varanasi","West Bengal,Uttar Pradesh"
+3,2024-02-28,CreativeHatti,Business Services,Graphic Sticker Designing Brand,60.0,2.0,3000.0,0,,,,,,5,3.0,2.0,Middle,Panchkula,Haryana
+3,2024-02-28,CandidMen,Beauty/Fashion,Fashion Rental Platform for Men,60.0,2.0,3000.0,1,1.0,60.0,5.0,,,2,1.0,1.0,Middle,Bangalore,Karnataka
+3,2024-02-28,Flyrobe,Beauty/Fashion,Fashion Rental Platform for Men and Women,50.0,1.0,5000.0,1,1.0,50.0,4.0,,,1,,1.0,Middle,Delhi,Delhi
+3,2024-02-29,WiseLife,Medical/Health,Yoga and wellness Accessories,60.0,2.0,3000.0,1,1.0,120.0,4.0,,,2,1.0,1.0,Middle,Gurugram,Haryana
+3,2024-02-29,Cervicheck,Medical/Health,Pragmatech Cervical Cancer Screening Test Kits,75.0,1.5,5000.0,1,1.0,75.0,5.0,,,2,1.0,1.0,Middle,Vadodara,Gujarat
+3,2024-02-29,Eatverse,Food and Beverage,Multi brand Cloud Kitchen,100.0,1.0,10000.0,0,,,,,,3,3.0,,Middle,Kolkata,West Bengal
+3,2024-03-01,AvataarSkincare,Beauty/Fashion,Skincare Services,70.0,1.0,7000.0,1,1.0,35.0,0.5,,,1,,1.0,Middle,Bhopal,Madhya Pradesh
+3,2024-03-01,ChalteFirteMangalkaryalay,Business Services,Portable Wedding Hall,200.0,10.0,2000.0,0,,,,,,3,2.0,1.0,Middle,Latur,Maharashtra
+3,2024-03-01,KryzenBiotech,Agriculture,Hydrophonic Farming,75.0,3.0,2500.0,1,1.0,75.0,15.0,,,2,1.0,1.0,Middle,Pune,Maharashtra
+3,2024-03-04,FOMO,Food and Beverage,Brew Ice Tea,35.0,4.0,875.0,1,1.0,35.0,6.0,,,2,2.0,,Young,Bangalore,Karnataka
+3,2024-03-04,ModelVerse,Technology/Software,Advance AI based Image Model Wrapper,25.0,10.0,250.0,1,1.0,25.0,10.0,,,1,1.0,,Young,Kozhikode,Kerala
+3,2024-03-04,VikrantBikes,Vehicles/Electrical Vehicles,Hydrogen Ethanol fuel based bike,30.0,5.0,600.0,0,,,,,,1,1.0,,Young,Satara,Maharashtra
+3,2024-03-05,TheShellHair,Beauty/Fashion,Hair Extensions,30.0,3.0,1000.0,1,1.0,30.0,3.0,,,1,,1.0,Young,Ajmer,Rajasthan
+3,2024-03-05,Rize,Food and Beverage,Energy Bars,45.0,6.0,750.0,0,,,,,,2,2.0,,Young,Gurgaon,Haryana
+3,2024-03-05,MEPACK,Business Services,Custom Gym Subscription,7.0,10.0,70.0,1,1.0,7.0,10.0,,,2,2.0,,Young,Delhi,Delhi
+3,2024-03-06,BaccaBucci,Beauty/Fashion,Footwear,250.0,1.0,25000.0,0,,,,,Deepinder Goyal,2,2.0,,Young,Delhi,Delhi
+3,2024-03-06,Vobble,Children/Education,Kids Audio Platform,25.0,1.5,1666.666667,1,1.0,25.0,2.0,,Deepinder Goyal,2,,2.0,Middle,Bangalore,Karnataka
+3,2024-03-06,BeUNatural,Beauty/Fashion,Unisex Salon,60.0,2.5,2400.0,0,,,,,Deepinder Goyal,1,1.0,,Middle,Delhi,Delhi
+3,2024-03-07,Erotissch,Beauty/Fashion,Lingerie and Swimwear,75.0,3.0,2500.0,0,,,,,Azhar Iqubal,2,,2.0,Middle,Agra,Uttar Pradesh
+3,2024-03-07,Niblerzz,Food and Beverage,Sugar Free Candy,50.0,3.0,1666.666667,1,1.0,10.0,5.0,,Azhar Iqubal,2,,2.0,Middle,Mumbai,Maharashtra
+3,2024-03-07,Sorich,Food and Beverage,Guilt free Snacks,90.0,2.5,3600.0,0,,,,,Azhar Iqubal,2,1.0,1.0,Middle,Delhi,Delhi
+3,2024-03-08,LittleBox,Beauty/Fashion,Fast fashion D2C,75.0,1.0,7500.0,1,1.0,75.0,2.5,,,2,1.0,1.0,Middle,Guwahati,Assam
+3,2024-03-08,CremeCastle,Food and Beverage,Customised Cakes and bakery products,60.0,1.5,4000.0,1,1.0,60.0,2.5,,,2,1.0,1.0,Middle,Noida,Uttar Pradesh
+3,2024-03-08,Namakwali,Food and Beverage,Organic Spices,50.0,5.0,1000.0,1,1.0,10.0,5.0,,,2,1.0,1.0,Middle,,Uttarakhand
+3,2024-03-11,KariboCosmetics,Beauty/Fashion,Customised DIY Lipstick,80.0,5.0,1600.0,0,,,,,Radhika Gupta,2,,2.0,Young,Mumbai,Maharashtra
+3,2024-03-11,Deeva,Beauty/Fashion,Online Saree Platform,200.0,4.0,5000.0,1,1.0,75.0,6.0,Radhika Gupta,Radhika Gupta,1,1.0,,Middle,Bangana,Himachal Pradesh
+3,2024-03-11,DesignTemplate,Technology/Software,Online Design Marketplace,100.0,2.5,4000.0,1,1.0,100.0,10.0,,Radhika Gupta,1,1.0,,Middle,Bid,Maharashtra
+3,2024-03-12,Sama,Business Services,Online Despite Resolution,100.0,1.0,10000.0,1,1.0,100.0,1.5,,,3,2.0,1.0,Middle,Delhi,"Delhi,Bihar,Kerala"
+3,2024-03-12,GoldenFeathers,Manufacturing,Fabrics made from Butchery Chicken Waste,500.0,5.0,10000.0,0,,,,,,3,2.0,1.0,Middle,Jaipur,Rajasthan
+3,2024-03-12,Myracle.io,Technology/Software,4D Edutainment,120.0,3.0,4000.0,0,,,,,,1,1.0,,Middle,Mumbai,Maharashtra
+3,2024-03-13,Cup-ji,Food and Beverage,Flavoured Instant Tea in Cups,50.0,5.0,1000.0,0,,,,,,2,2.0,,Middle,Mumbai,Maharashtra
+3,2024-03-13,AToddlerThing,Beauty/Fashion,Baby Clothing and Essentials,80.0,2.0,4000.0,1,1.0,40.0,2.0,,,2,1.0,1.0,Middle,Coimbatore,Tamil Nadu
+3,2024-03-13,FlexifyMe,Medical/Health,Body Pain Management Platform,100.0,2.0,5000.0,1,1.0,50.0,1.32,,,2,2.0,,Middle,Pune,Maharashtra
+3,2024-03-14,Dharaksha,Green/CleanTech,Ecosolution Sustainable Material Science,0.0125,1.0,1.25,1,1.0,0.0125,1.0,,,2,2.0,,Middle,Faridabad,Haryana
+3,2024-03-14,iDreamCareer,Technology/Software,Career Counseling Platform,110.0,1.28,8593.75,1,1.0,60.0,1.0,,,2,2.0,,Middle,"Delhi,Bangalore","Delhi,Karnataka"
+3,2024-03-14,RockPaperRum,Liquor/Alcohol,Innovative Indian Rum,50.0,2.0,2500.0,1,1.0,20.0,1.0,,,1,1.0,,Middle,Mumbai,Maharashtra
+3,2024-03-15,Fit&Flex,Food and Beverage,"Variety of snacks, Muesli, Granola",100.0,3.0,3333.333333,1,0.0,,,,Deepinder Goyal,1,1.0,,Middle,Ahmedabad,Gujarat
+3,2024-03-15,Sukham,Medical/Health,Holistic sexual male wellness,100.0,3.33,3003.003003,0,,,,,Deepinder Goyal,4,3.0,1.0,Middle,Delhi,Delhi
+3,2024-03-15,Smotect,Medical/Health,Quit Smoking by tablets,100.0,1.0,10000.0,1,1.0,50.0,5.0,,Deepinder Goyal,1,1.0,,Middle,Mumbai,Maharashtra
+3,2024-03-18,Katidhan,Manufacturing,Autonomus Light Deterrence System,150.0,2.5,6000.0,1,1.0,75.0,5.0,,,1,1.0,,Middle,Bangalore,Karnataka
+3,2024-03-18,NEMAAI,Technology/Software,AI and Neuroscience based EdTech Platform,80.0,5.0,1600.0,1,1.0,40.0,8.0,,,1,,1.0,Middle,Delhi,Delhi
+3,2024-03-18,MaplePods,Business Services,Tech Hospitality and Entertainment Company,150.0,5.0,3000.0,0,,,,,,1,1.0,,Middle,Delhi,Delhi
+3,2024-03-19,SpecOps,Others,Tactical clothing for Military,80.0,2.0,4000.0,1,1.0,40.0,2.0,,,1,1.0,,Middle,,
+3,2024-03-19,KaabilKids,Technology/Software,Online Chess Training Academy,70.0,2.0,3500.0,1,1.0,50.0,2.5,,,3,2.0,1.0,Middle,Noida,Uttar Pradesh
+3,2024-03-19,OddGiraffe,Lifestyle/Home,Journals and Planners for Mental Wellness,75.0,7.5,1000.0,0,,,,,,2,2.0,,Middle,Mumbai,Maharashtra
+3,2024-03-20,Nemocare,Medical/Health,NeoNatel Wearable Vital Monitor,100.0,2.5,4000.0,1,1.0,20.0,0.67,,Radhika Gupta,2,1.0,1.0,Middle,"Hyderabad,Bangalore","Telangana,Karnataka"
+3,2024-03-20,WhySoBlue,Beauty/Fashion,Clothing Brand,75.0,3.0,2500.0,1,1.0,40.0,3.0,,Radhika Gupta,2,,2.0,Middle,Mumbai,Maharashtra
+3,2024-03-20,CoratiaTechnologies,Technology/Software,Unmanned Underwater Robots,80.0,1.0,8000.0,1,1.0,80.0,1.0,,Radhika Gupta,2,2.0,,Middle,Rourkela,Odisha
+3,2024-03-21,Coolant,Manufacturing,Nature-Based Cooling Technology,90.0,1.0,9000.0,0,,,,,,1,1.0,,Middle,Noida,Uttar Pradesh
+3,2024-03-21,Xmachines,Technology/Software,Robotics and AI for Agriculture,72.0,4.0,1800.0,1,1.0,72.0,4.0,,,1,1.0,,Middle,Hyderabad,Telangana
+3,2024-03-21,Luvottica,Lifestyle/Home,Love-Making Yoga intimate Furniture,200.0,10.0,2000.0,0,,,,,,1,1.0,,Middle,Abohar,Punjab
+3,2024-03-22,FarmDidi,Food and Beverage,Food Business training App,50.0,2.0,2500.0,1,1.0,100.0,10.0,,,3,1.0,2.0,Middle,"Amravati,Lucknow,Bahadurgarh","Maharashtra,Uttar Pradesh,Haryana"
+3,2024-03-22,Popcorn,Food and Beverage,Ready to Eat Popcorn,75.0,7.5,1000.0,1,1.0,75.0,15.0,,,1,1.0,,Middle,Delhi,Delhi
+3,2024-03-22,Prorata,Business Services,Fractional Car Ownership Platform,100.0,2.0,5000.0,1,1.0,50.0,10.0,,,1,1.0,,Middle,Bangalore,Karnataka
+3,2024-03-25,Indigifts,Business Services,Personal Festive Corporate Gifting,50.0,2.0,2500.0,1,1.0,50.0,4.0,,,2,1.0,1.0,Middle,Jaipur,Rajasthan
+3,2024-03-25,AlienVersions,Vehicles/Electrical Vehicles,FuelV Smart Fuel Caps,50.0,5.0,1000.0,0,,,,,,2,2.0,,Young,"Itanagar,Dehradun","Arunachal Pradesh,Uttarakhand"
+3,2024-03-25,Rocca,Food and Beverage,Premium Chocolates,60.0,4.0,1500.0,1,1.0,30.0,2.5,,,2,1.0,1.0,Young,Nagpur,Maharashtra
+3,2024-03-26,KikoLive,Technology/Software,Listing and Creating Websites for Kirana Sellers,100.0,1.0,10000.0,0,,,,,Deepinder Goyal,3,2.0,1.0,Middle,Mumbai,Maharashtra
+3,2024-03-26,Melooha,Others,AI Powered Astrology Platform,80.0,2.0,4000.0,0,,,,,Deepinder Goyal,3,2.0,1.0,Middle,Bangalore,Karnataka
+3,2024-03-26,FUTRStudios,Technology/Software,Kyra Virtual Influencer for Businesses,100.0,2.5,4000.0,0,,,,,Deepinder Goyal,2,2.0,,Middle,"Chandigarh,Ahmedabad","Punjab,Gujarat"
+3,2024-03-27,Allter,Lifestyle/Home,Certified Organic Rash-Free Diapers,100.0,2.5,4000.0,1,1.0,100.0,4.0,,,1,,1.0,Middle,Delhi,Delhi
+3,2024-03-27,FirstBudOrganics,Food and Beverage,Organic Products,50.0,7.0,714.2857143,1,1.0,50.0,10.0,,,2,1.0,1.0,Middle,Deoghar,Jharkhand
+3,2024-03-27,Shararat,Lifestyle/Home,Bedroom intimacy Fashion,60.0,7.0,857.1428571,0,,,,,,2,1.0,1.0,Middle,Noida,Uttar Pradesh
+3,2024-03-28,Competishun,Children/Education,Coaching classes for IIT/JEE,200.0,1.0,20000.0,0,,,,,Azhar Iqubal,3,3.0,,Middle,Jaipur,Rajasthan
+3,2024-03-28,BombayClosetCleanse,Beauty/Fashion,Thrift shop resale Platform,100.0,2.5,4000.0,0,,,,,Azhar Iqubal,2,,2.0,Young,Mumbai,Maharashtra
+3,2024-03-28,KioskKaffee,Food and Beverage,Premium Coffee,90.0,3.0,3000.0,0,,,,,Azhar Iqubal,3,3.0,,Middle,Pune,Maharashtra
+3,2024-03-29,NeonAttack,Lifestyle/Home,Premium Quality Neon Signs,75.0,3.0,2500.0,1,1.0,50.0,2.0,,,2,2.0,,Young,Hyderabad,Telangana
+3,2024-03-29,PTal,Lifestyle/Home,"Copper, Brass, and Bronze Kitchenware",50.0,1.0,5000.0,1,1.0,100.0,3.2,,,3,2.0,1.0,Young,Amritsar,Punjab
+3,2024-03-29,RoadPilot,Technology/Software,App for Truck Drivers and Fleet Owners,80.0,5.0,1600.0,0,,,,,,2,1.0,1.0,Middle,Lucknow,Uttar Pradesh
+3,2024-03-30,SmartMop,Lifestyle/Home,Caspian smart household cleaning device,15.0,1.0,1500.0,0,,,,,Azhar Iqubal,2,2.0,,Young,Mysuru,Karnataka
+3,2024-03-30,Lea,Beauty/Fashion,"With real curves, to celebrate and accentuate the skin",100.0,2.0,5000.0,1,1.0,100.0,4.0,Azhar Iqubal,Azhar Iqubal,2,,2.0,Middle,Noida,Uttar Pradesh
+3,2024-03-30,$KrishnaRama,Entertainment,Movie,200.0,30.0,666.6666667,0,,,,,Azhar Iqubal,2,2.0,,Middle,Hyderabad,Telangana
+3,2024-03-30,Rentit4me,Business Services,Marketplace where people can â€œGive on Rentâ€ & â€œTake on Rent,150.0,5.0,3000.0,0,,,,,Azhar Iqubal,3,1.0,2.0,Middle,Gurugram,Haryana
+3,2024-03-31,CoolTheGlobe,Green/CleanTech,Movement to combat climate change,25.0,5.0,500.0,1,1.0,25.0,8.0,Radhika Gupta,"Azhar Iqubal,Radhika Gupta",1,,1.0,Middle,Pune,Maharashtra
+3,2024-03-31,Canvaloop,Green/CleanTech,Sustainable fabrics manufacturer,100.0,1.33,7518.796992,1,1.0,200.0,4.0,"Azhar Iqubal,Radhika Gupta","Azhar Iqubal,Radhika Gupta",2,1.0,1.0,Middle,Surat,Gujarat
+3,2024-03-31,DigitalPaani,Green/CleanTech,"Manage plants, deliver safe, compliant operations",70.0,1.0,7000.0,0,,,,,"Azhar Iqubal,Radhika Gupta",2,1.0,1.0,Middle,Jaipur,Rajasthan
+4,2025-01-06,FAEBeauty,Beauty/Fashion,Innovative beauty products,100.0,1.0,10000.0,1,1.0,100.0,1.5,,,1,0.0,1.0,Middle,Mumbai,Maharashtra
+4,2025-01-06,CONFECT,Food and Beverage,Delectable premium confectionery,100.0,1.0,10000.0,1,1.0,100.0,2.0,,,1,0.0,1.0,Middle,Delhi,Delhi
+4,2025-01-06,Indulge,Technology/Software,Global luxury app,50.0,1.0,5000.0,0,,,,,,2,1.0,1.0,Middle,Goa,Goa
+4,2025-01-07,BLFabric,Beauty/Fashion,Fabric retail offerings,100.0,2.0,5000.0,1,1.0,100.0,5.0,Kunal Bahl,Kunal Bahl,1,1.0,0.0,Middle,Surat,Gujarat
+4,2025-01-07,CultureCircle,Beauty/Fashion,Authentic and affordable sneaker collection,120.0,0.5,24000.0,1,1.0,300.0,3.0,Kunal Bahl,Kunal Bahl,2,2.0,0.0,Young,Gurugram,Haryana
+4,2025-01-07,NexeraHealth,Medical/Health,Healthcare solution for employees,75.0,1.0,7500.0,0,,,,,Kunal Bahl,1,1.0,0.0,Young,Jaipur,Rajasthan
+4,2025-01-08,NOOE,Technology/Software,Premium lifestyle accessories,50.0,1.0,5000.0,1,1.0,500.0,51.0,,Kunal Bahl,2,1.0,1.0,Middle,"Delhi,Pune","Delhi,Maharashtra"
+4,2025-01-08,GoZero,Food and Beverage,Indulgent guilt-free ice creams,100.0,1.0,10000.0,1,1.0,100.0,1.5,,Kunal Bahl,1,1.0,0.0,Middle,Mumbai,Maharashtra
+4,2025-01-08,CurveElectric,Technology/Software,e-bike sharing system,500.0,5.0,10000.0,0,,,,,Kunal Bahl,2,2.0,0.0,Middle,Srinagar,Jammu & Kashmir
+4,2025-01-09,Gudworld,Food and Beverage,Organic jaggery delights,50.0,2.0,2500.0,1,1.0,50.0,5.0,,Varun Dua,2,0.0,2.0,Young,Aurangabad,Maharashtra
+4,2025-01-09,airth,Lifestyle/Home,Innovative air purifiers for ACs,60.0,1.0,6000.0,1,1.0,100.0,3.7,,Varun Dua,2,2.0,0.0,Middle,Delhi,Delhi
+4,2025-01-09,OneDios,Lifestyle/Home,Convenient service request platform,75.0,1.5,5000.0,0,,,,,Varun Dua,1,1.0,0.0,Middle,Noida,Uttar Pradesh
+4,2025-01-10,InnerGize,Medical/Health,Mental wellness wearables,54.0,1.5,3600.0,1,1.0,100.0,4.2,Azhar Iqubal,"Kunal Bahl,Azhar Iqubal",3,2.0,1.0,Middle,Delhi,Delhi
+4,2025-01-10,PersonalTouchSkincare,Beauty/Fashion,Premium skin body home care,120.0,1.0,12000.0,0,,,,,"Kunal Bahl,Azhar Iqubal",2,1.0,1.0,Middle,Panipat,Haryana
+4,2025-01-10,KIWIKisanWindow,Lifestyle/Home,Organic grocery solutions,50.0,1.0,5000.0,1,1.0,250.0,10.0,Kunal Bahl,"Kunal Bahl,Azhar Iqubal",2,1.0,1.0,Middle,Dehradun,Uttarakhand
+4,2025-01-13,TripoleGear,Fitness/Sports/Outdoors,Trekking gear essentials backpacks,100.0,1.0,10000.0,1,1.0,75.0,1.15,,Kunal Bahl,1,1.0,0.0,Middle,Delhi,Delhi
+4,2025-01-13,Neosapien,Technology/Software,AI-powered superhuman personal assistant,80.0,2.5,3200.0,1,1.0,80.0,4.0,,Kunal Bahl,2,2.0,0.0,Young,"Gwalior,Indore",Madhya Pradesh
+4,2025-01-13,MissCheesecake,Food and Beverage,Delightful affordable cheesecakes,30.0,5.0,600.0,1,0.0,,,,Kunal Bahl,2,1.0,1.0,Young,Jodhpur,Rajasthan
+4,2025-01-14,SpeedKitchen,Food and Beverage,Ready-to-move kitchens,200.0,3.0,6666.666667,1,1.0,200.0,6.0,"Kunal Bahl,Azhar Iqubal","Kunal Bahl,Azhar Iqubal",2,2.0,0.0,Middle,Delhi,Delhi
+4,2025-01-14,MudgarClub,Fitness/Sports/Outdoors,Traditional fitness tools,50.0,10.0,500.0,1,1.0,50.0,12.5,,"Kunal Bahl,Azhar Iqubal",2,2.0,0.0,Middle,,Haryana
+4,2025-01-14,ImagiMake,Children/Education,Creative games and toys,150.0,0.5,30000.0,1,0.0,,,,"Kunal Bahl,Azhar Iqubal",2,1.0,1.0,Middle,Mumbai,Maharashtra
+4,2025-01-15,BeastLife,Medical/Health,Affordable protein supplements,100.0,1.0,10000.0,0,,,,,Kunal Bahl,2,2.0,0.0,Middle,"Kanpur,Lucknow",Uttar Pradesh
+4,2025-01-15,GoDevil,Beauty/Fashion,Trendy online fashion,80.0,2.0,4000.0,0,,,,,Kunal Bahl,2,1.0,1.0,Young,Gurugram,Haryana
+4,2025-01-15,Havintha,Beauty/Fashion,Premium hair care products,50.0,2.0,2500.0,1,0.0,,,,Kunal Bahl,1,1.0,0.0,Middle,Indore,Madhya Pradesh
+4,2025-01-16,NurturingGreen,Lifestyle/Home,Online plant nursery,100.0,1.0,10000.0,1,1.0,50.0,1.25,,Kunal Bahl,1,1.0,0.0,Middle,Lucknow,Uttar Pradesh
+4,2025-01-16,kyari,Lifestyle/Home,Online plant nursery,80.0,0.8,10000.0,1,0.0,,,,Kunal Bahl,2,2.0,0.0,Middle,Indore,Madhya Pradesh
+4,2025-01-17,ProjectClay,Children/Education,One-on-one college application mentorship,15.0,10.0,150.0,1,1.0,15.0,10.0,,,2,1.0,1.0,Young,Goa,Goa
+4,2025-01-17,DeniBikes,Vehicles/Electrical Vehicles,Affordable and eco-friendly electric motorcycles,30.0,10.0,300.0,0,,,,,,1,1.0,0.0,Young,Pune,Maharashtra
+4,2025-01-17,PrettyLittleShop,Lifestyle/Home,Personalized gift solutions,30.0,10.0,300.0,0,,,,,,1,0.0,1.0,Young,Mumbai,Maharashtra
+4,2025-01-20,Aquapeya,Lifestyle/Home,Natural mineral water,70.0,2.0,3500.0,1,1.0,70.0,3.0,,,2,2.0,0.0,Middle,Sangli,Maharashtra
+4,2025-01-20,Jarsh,Manufacturing,Innovative safety wearables,50.0,1.0,5000.0,1,1.0,50.0,1.5,,,3,3.0,0.0,Middle,Hyderabad,Telangana
+4,2025-01-20,DACBY,Beauty/Fashion,Platform for pre-owned gaming consoles,75.0,2.2,3409.090909,0,,,,,,1,1.0,0.0,Middle,Kanpur,Uttar Pradesh
+4,2025-01-21,Shyle,Beauty/Fashion,Handcrafted jewellery silver,70.0,1.0,7000.0,1,1.0,70.0,1.5,,Kunal Bahl,2,1.0,1.0,Middle,Jaipur,Rajasthan
+4,2025-01-21,SavaniHeritage,Business Services,Innovative restoration techniques,300.0,1.0,30000.0,1,1.0,100.0,0.8,,Kunal Bahl,3,3.0,0.0,Middle,Mumbai,Maharashtra
+4,2025-01-21,SNEAKINN,Beauty/Fashion,Premium sneaker care solutions,90.0,3.0,3000.0,1,1.0,90.0,6.5,,Kunal Bahl,2,1.0,1.0,Middle,Gurugram,Haryana
+4,2025-01-22,fupro,Medical/Health,Affordable prosthetics Orthotics,60.0,1.0,6000.0,1,1.0,60.0,4.0,,Kunal Bahl,2,2.0,0.0,Young,Chandigarh,"Punjab,Kerala"
+4,2025-01-22,Kanvas,Beauty/Fashion,Heritage-inspired fashion footwear,60.0,6.0,1000.0,0,,,,,Kunal Bahl,1,0.0,1.0,Young,Mumbai,Maharashtra
+4,2025-01-22,ezo,Manufacturing,Innovative billing machines,50.0,0.33,15151.51515,0,,,,,Kunal Bahl,3,3.0,0.0,Middle,Akola,Maharashtra
+4,2025-01-23,Seven,Technology/Software,Innovative payment wearables developed,75.0,1.0,7500.0,1,1.0,75.0,1.5,Varun Dua,Varun Dua,3,3.0,0.0,Middle,Mumbai,Maharashtra
+4,2025-01-23,TheFutureAnimations,Technology/Software,Captivating two-dimensional animations,50.0,2.5,2000.0,1,1.0,50.0,10.0,,Varun Dua,2,2.0,0.0,Young,Delhi,Delhi
+4,2025-01-23,Aignosis,Technology/Software,"Early screening, diagnosis, and detection of autism",50.0,4.0,1250.0,1,1.0,100.0,8.0,Varun Dua,Varun Dua,2,2.0,0.0,Young,Jaipur,Rajasthan
+4,2025-01-24,Rosha,Manufacturing,"Wireless, portable, and rechargeable lighting lamps",60.0,1.0,6000.0,1,1.0,60.0,4.0,,,3,3.0,0.0,Middle,Delhi,Delhi
+4,2025-01-24,MakeMyPayment,Technology/Software,Automated online fees payment reminder system,30.0,3.0,1000.0,0,,,,,,4,3.0,1.0,Middle,Ujjain,Madhya Pradesh
+4,2025-01-24,PatchUp,Medical/Health,Patches that provide vitamins through skin absorption,50.0,1.75,2857.142857,1,1.0,50.0,2.27,,,1,0.0,1.0,Middle,Delhi,Delhi
+4,2025-01-27,tikitoro,Beauty/Fashion,Personal care products for kids and teens,25.0,0.5,5000.0,1,1.0,25.0,1.0,,Kunal Bahl,1,0.0,1.0,Middle,Chennai,Tamil Nadu
+4,2025-01-27,Ashva,Medical/Health,Musculoskeletal healthcare wearables,50.0,1.25,4000.0,1,1.0,50.0,4.0,,Kunal Bahl,1,0.0,1.0,Young,Ghaziabad,Uttar Pradesh
+4,2025-01-27,AseemShakti,Beauty/Fashion,Ready-to-wear pocket saree,50.0,2.5,2000.0,1,1.0,50.0,10.0,,Kunal Bahl,1,0.0,1.0,Middle,Mumbai,Maharashtra
+4,2025-01-28,RBDMachineTools,Agriculture,India's first power reaper with a seat,100.0,1.0,10000.0,1,1.0,50.0,1.0,,Kunal Bahl,2,2.0,0.0,Middle,Jaipur,Rajasthan
+4,2025-01-28,MidasPaint,Green/CleanTech,Eco-friendly paints,300.0,5.0,6000.0,0,,,,,Kunal Bahl,4,4.0,0.0,Middle,Pune,Maharashtra
+4,2025-01-28,GoodlandPickleball,Fitness/Sports/Outdoors,"Pickleball premium paddles, and courts",80.0,4.0,2000.0,1,1.0,80.0,6.0,,Kunal Bahl,2,2.0,0.0,Middle,Mumbai,Maharashtra
+4,2025-01-29,TheNaturikCo,Food and Beverage,High protein breakfast options,50.0,2.0,2500.0,1,1.0,400.0,22.22,Kunal Bahl,Kunal Bahl,2,1.0,1.0,Middle,Panchkula,Haryana
+4,2025-01-29,Metashot,Fitness/Sports/Outdoors,Console-like cricket game,80.0,1.5,5333.333333,1,1.0,160.0,5.0,,Kunal Bahl,3,3.0,0.0,Middle,Bangalore,Karnataka
+4,2025-01-29,GabruDiChaap,Food and Beverage,Flavourful soya chaap,70.0,1.0,7000.0,1,1.0,140.0,6.0,,Kunal Bahl,2,2.0,0.0,Middle,Hyderabad,Telangana
+4,2025-01-30,YaanMan,Beauty/Fashion,Makeup for men,50.0,6.0,833.3333333,1,1.0,100.0,20.0,,,1,1.0,0.0,Young,Ahmedabad,Gujarat
+4,2025-01-30,SonicLamb,Lifestyle/Home,Premium headphones,50.0,1.0,5000.0,1,1.0,50.0,1.0,,,2,2.0,0.0,Middle,Mangalore,Karnataka
+4,2025-01-30,Woolah,Food and Beverage,Worldâ€™s first bagless tea dip,50.0,1.66,3012.048193,1,1.0,50.0,2.5,,,1,1.0,0.0,Middle,Sivasagar,Assam
+4,2025-01-31,EM5,Beauty/Fashion,Pocket perfumes,70.0,2.0,3500.0,1,1.0,100.0,10.0,,Varun Dua,1,1.0,0.0,Middle,Indore,Madhya Pradesh
+4,2025-01-31,WomanLikeU,Beauty/Fashion,Body-type-specific womenswear,100.0,2.0,5000.0,1,1.0,100.0,3.0,,Varun Dua,2,1.0,1.0,Middle,Bangalore,Karnataka
+4,2025-01-31,BookLeafPublishing,Others,Self-publishing platform,90.0,5.0,1800.0,0,,,,,Varun Dua,2,1.0,1.0,Young,"Delhi,Srinagar","Delhi,Jammu & Kashmir"
+4,2025-02-03,Str8bat,Fitness/Sports/Outdoors,A batting sensor,150.0,1.0,15000.0,1,1.0,150.0,3.5,,Kunal Bahl,3,3.0,0.0,Old,Bangalore,Karnataka
+4,2025-02-03,Ruby'sOrganics,Beauty/Fashion,"Natural and Vegan, Cruelty Free, Clean Cosmetics & Makeup Products",100.0,2.5,4000.0,1,1.0,100.0,8.0,Kunal Bahl,Kunal Bahl,1,0.0,1.0,Middle,Mumbai,Maharashtra
+4,2025-02-03,TheGoodDoll,Children/Education,Sustainable fabric dolls,50.0,5.0,1000.0,0,,,,,Kunal Bahl,2,1.0,1.0,Middle,Ooty,Tamil Nadu
+4,2025-02-04,Schickwheel,Manufacturing,Food trucks,70.0,1.0,7000.0,1,0.0,,,,Kunal Bahl,2,2.0,0.0,Middle,Delhi,Delhi
+4,2025-02-04,ClapStoreToys,Children/Education,kids' toys creativity and learning with Montessori Busy Boards,80.0,4.0,2000.0,1,1.0,100.0,10.0,Kunal Bahl,Kunal Bahl,2,2.0,0.0,Young,Pune,Maharashtra
+4,2025-02-04,RahejaSolarFoodProcessing,Manufacturing,"High-quality, durable solar dryers",50.0,1.0,5000.0,1,1.0,175.0,4.38,Kunal Bahl,Kunal Bahl,2,1.0,1.0,Middle,Indore,Madhya Pradesh
+4,2025-02-05,Wanderlooms,Fitness/Sports/Outdoors,Adventure-inspired riding apparel,50.0,2.5,2000.0,1,1.0,50.0,4.0,,,2,2.0,0.0,Middle,Bhopal,Madhya Pradesh
+4,2025-02-05,Ugees,Lifestyle/Home,Indiaâ€™s first undergarment wash,50.0,2.5,2000.0,1,1.0,50.0,4.0,,,2,1.0,1.0,Middle,Noida,Uttar Pradesh
+4,2025-02-05,Alt.fCoworking,Business Services,Innovative working spaces,100.0,0.75,13333.33333,1,0.0,,,,,2,2.0,0.0,Middle,Gurugram,Haryana
+4,2025-02-06,BurgerBae,Beauty/Fashion,Sustainable streetwear clothing brand,100.0,2.5,4000.0,1,1.0,200.0,20.0,Kunal Bahl,"Kunal Bahl,Viraj Bahl",3,1.0,2.0,Young,"Ludhiana,Kolkata","Punjab,West Bengal"
+4,2025-02-06,BobaBhai,Food and Beverage,Refreshing bubble teas,50.0,0.3,16666.66667,1,1.0,90.0,1.0,Viraj Bahl,"Kunal Bahl,Viraj Bahl",1,1.0,0.0,Middle,Bangalore,Karnataka
+4,2025-02-06,Hexafun,Beauty/Fashion,Quirky products with funky accessories,100.0,4.0,2500.0,0,,,,,"Kunal Bahl,Viraj Bahl",2,1.0,1.0,Middle,"Mumbai,Delhi","Maharashtra,Delhi"
+4,2025-02-07,RepeatGud,Food and Beverage,Chemical-free sauces,50.0,5.0,1000.0,1,1.0,50.0,10.0,,"Kunal Bahl,Viraj Bahl",1,0.0,1.0,Young,Raipur,Chhattisgarh
+4,2025-02-07,SkateSupplyIndia,Fitness/Sports/Outdoors,Skateboard distribution and retail,50.0,2.0,2500.0,1,0.0,,,,"Kunal Bahl,Viraj Bahl",2,1.0,1.0,Middle,Chandigarh,Punjab
+4,2025-02-07,UtopianDrinks,Food and Beverage,Fresh fruit juices and smoothies,40.0,1.8,2222.222222,0,,,,,"Kunal Bahl,Viraj Bahl",2,1.0,1.0,Middle,Thane,Maharashtra
+4,2025-02-10,GOFIG,Green/CleanTech,Digital platform to minimize waste,50.0,2.0,2500.0,1,0.0,,,,,2,1.0,1.0,Middle,Pune,Maharashtra
+4,2025-02-10,Joyspoon,Food and Beverage,Premium mukhwas and mouth fresheners,40.0,1.5,2666.666667,1,1.0,40.0,2.0,,,2,1.0,1.0,Young,Ahmedabad,Gujarat
+4,2025-02-10,bambinos,Children/Education,English communication school for kids,100.0,1.0,10000.0,1,1.0,100.0,1.5,,,2,2.0,0.0,Middle,Bangalore,Karnataka
+4,2025-02-11,FundooLabs,Children/Education,DIY scientific and sensory toys,60.0,4.0,1500.0,1,1.0,66.0,7.0,,,1,1.0,0.0,Middle,Vadodara,Gujarat
+4,2025-02-11,Gaon,Food and Beverage,Authentic Indian desi food cuisine,80.0,4.0,2000.0,1,1.0,80.0,8.0,,,1,1.0,0.0,Middle,Champaran,Bihar
+4,2025-02-11,EriWeave,Beauty/Fashion,Handwoven silk crafted by women,20.0,12.0,166.6666667,1,1.0,20.0,12.0,,,2,0.0,2.0,Middle,Kdonghulu,Meghalaya
+4,2025-02-12,PaleooBakes,Food and Beverage,Healthy sweets,100.0,6.5,1538.461538,1,1.0,100.0,9.0,,,2,0.0,2.0,Middle,Mumbai,Maharashtra
+4,2025-02-12,NeuraSim,Medical/Health,Innovative solutions for visual impairments,100.0,8.0,1250.0,0,,,,,,3,3.0,0.0,Middle,Bangalore,Karnataka
+4,2025-02-12,Offmint,Beauty/Fashion,Luxury-ready fashion,0.0001,1.0,0.01,1,1.0,10.0,4.0,,,1,1.0,0.0,Middle,Samastipur,Bihar
+4,2025-02-13,Chokhat,Lifestyle/Home,Affordable designer home decor,50.0,7.0,714.2857143,1,1.0,30.0,10.0,,Kunal Bahl,1,0.0,1.0,Middle,Delhi,Delhi
+4,2025-02-13,ZenmaCoffee,Food and Beverage,Barista-level espresso at home,60.0,3.5,1714.285714,0,,,,,Kunal Bahl,2,1.0,1.0,Young,Gurugram,Haryana
+4,2025-02-13,TheEleFant,Children/Education,Toy subscription service,60.0,1.0,6000.0,0,,,,,Kunal Bahl,2,1.0,1.0,Middle,Mumbai,Maharashtra
+4,2025-02-14,BetterNutrition,Food and Beverage,Biofortified Nutrition Aata,60.0,1.0,6000.0,1,1.0,60.0,1.0,,Kunal Bahl,2,1.0,1.0,Middle,Lucknow,Uttar Pradesh
+4,2025-02-14,PinqPolka,Beauty/Fashion,Lifestyle products for women,100.0,2.5,4000.0,0,,,,,Kunal Bahl,3,1.0,2.0,Middle,Faridabad,Haryana
+4,2025-02-14,Vibrasense,Medical/Health,Life-saving innovations,100.0,2.0,5000.0,1,1.0,100.0,4.76,,Kunal Bahl,1,1.0,0.0,Middle,Sonipat,Haryana
+4,2025-02-17,NearBook,Children/Education,A used books marketplace,40.0,20.0,200.0,1,1.0,40.0,20.0,,Kunal Bahl,1,1.0,0.0,Young,Sanchore,Rajasthan
+4,2025-02-17,Memotag,Medical/Health,IoT wearable for monitoring cognitive and physical health,50.0,5.0,1000.0,0,,,,,Kunal Bahl,1,1.0,0.0,Young,Delhi,Delhi
+4,2025-02-17,Klimate,Beauty/Fashion,Climate impact solutions cooling vests,54.0,3.0,1800.0,0,,,,,Kunal Bahl,3,3.0,0.0,Young,"Bangalore,Gular","Karnataka,Assam,Jharkhand"
+4,2025-02-18,HealthFab,Medical/Health,Leakproof period panties,100.0,3.0,3333.333333,1,1.0,200.0,7.0,,,3,3.0,0.0,Middle,,Assam
+4,2025-02-18,PieMatrix,Others,Premium telescopes and binoculars,100.0,3.0,3333.333333,1,0.0,,,,,2,2.0,0.0,Young,Delhi,Delhi
+4,2025-02-18,Sudathi,Beauty/Fashion,Elegant sarees kurtas,100.0,1.0,10000.0,1,1.0,100.0,4.0,,,3,3.0,0.0,Middle,Surat,Gujarat
+4,2025-02-19,Moderate,Medical/Health,Calorie-burning tablets,50.0,1.25,4000.0,1,1.0,100.0,5.0,Kunal Bahl,Kunal Bahl,3,2.0,1.0,Middle,Hyderabad,Telangana
+4,2025-02-19,HireForCare,Medical/Health,Digital nanny-hiring platform,36.0,3.0,1200.0,1,1.0,36.0,5.0,Kunal Bahl,Kunal Bahl,2,2.0,0.0,Middle,"Ghaziabad,Jaipur","Uttar Pradesh,Rajasthan"
+4,2025-02-19,DreamSmile,Medical/Health,Advanced affordable dental solutions veneers,80.0,6.0,1333.333333,0,,,,,Kunal Bahl,2,2.0,0.0,Middle,Mumbai,Maharashtra
+4,2025-02-20,Madmix,Food and Beverage,Healthy snacks,50.0,1.0,5000.0,1,1.0,50.0,5.0,,Kunal Bahl,1,1.0,0.0,Middle,Mumbai,Maharashtra
+4,2025-02-20,Palmonas,Beauty/Fashion,Demi-fine jewellery,126.0,1.0,12600.0,1,1.0,126.0,1.0,,Kunal Bahl,2,1.0,1.0,Middle,Pune,Maharashtra
+4,2025-02-20,MKPowerAndMobility,Vehicles/Electrical Vehicles,e-mobility solutions Electric Vehicles for transport and passengers,350.0,5.0,7000.0,0,,,,,Kunal Bahl,2,2.0,0.0,Old,Pune,Maharashtra
+4,2025-02-21,Nidhi'sGrandmaaSecret,Beauty/Fashion,Natural hair oil Ayurvedic,70.0,2.0,3500.0,1,1.0,70.0,5.0,,Kunal Bahl,3,1.0,2.0,Middle,Gurugram,Haryana
+4,2025-02-21,Solnce,Manufacturing,Solar equipment services,100.0,1.5,6666.666667,1,1.0,100.0,2.5,,Kunal Bahl,2,2.0,0.0,Middle,Surat,Gujarat
+4,2025-02-21,BornGood,Lifestyle/Home,Plant-based home cleaners fabric Laundry Detergen,70.0,1.0,7000.0,0,,,,,Kunal Bahl,1,1.0,0.0,Middle,Bangalore,Karnataka
+4,2025-02-24,DorabiAndAmili,Beauty/Fashion,Online sustainable clothing brand,75.0,3.0,2500.0,1,1.0,100.0,4.0,,Kunal Bahl,3,1.0,2.0,Middle,Gurugram,Haryana
+4,2025-02-24,ZebraLearn,Children/Education,Modern book platform,100.0,0.8,12500.0,1,1.0,100.0,1.6,,Kunal Bahl,2,1.0,1.0,Middle,Surat,Gujarat
+4,2025-02-24,ExclusiveLane,Lifestyle/Home,Unique hand-painted handloom products,50.0,1.0,5000.0,0,,,,,Kunal Bahl,2,2.0,0.0,Middle,Gurugram,Haryana
+4,2025-02-25,Medial,Technology/Software,Indian startup news and tech,50.0,1.0,5000.0,1,1.0,50.0,2.5,,Kunal Bahl,4,4.0,0.0,Young,Bangalore,Karnataka
+4,2025-02-25,PanchalDairy,Food and Beverage,Artisanal and pastoral cheese,20.0,10.0,200.0,0,,,,,Kunal Bahl,2,2.0,0.0,Middle,Surendranagar,Gujarat
+4,2025-02-25,MusicPandit,Children/Education,Music classes for kids,50.0,1.0,5000.0,0,,,,,Kunal Bahl,1,0.0,1.0,Middle,Kochi,Kerala
+4,2025-02-26,Cograd,Children/Education,Innovative and affordable education teaching,100.0,2.0,5000.0,1,1.0,50.0,6.0,,Kunal Bahl,2,2.0,0.0,Middle,Etawah,Uttar Pradesh
+4,2025-02-26,EatBetterCo,Food and Beverage,Healthy delicious snacks,50.0,0.5,10000.0,1,1.0,50.0,0.5,,Kunal Bahl,3,1.0,2.0,Middle,Jaipur,Rajasthan
+4,2025-02-26,Earthful,Medical/Health,Health-boosting supplements,75.0,1.0,7500.0,1,1.0,75.0,2.5,,Kunal Bahl,2,0.0,2.0,Middle,Hyderabad,Telangana
+4,2025-02-27,Trajectory,Vehicles/Electrical Vehicles,"Car seat pillows, backrests, and lumbar support",100.0,2.0,5000.0,1,1.0,50.0,3.0,,,2,2.0,0.0,Middle,Delhi,Delhi
+4,2025-02-27,KaviThePoetry-ArtProject,Green/CleanTech,"Upcycled products eco-conscious glassware Raise, reuse, recycle with class Hand made",60.0,1.5,4000.0,0,,,,,,2,1.0,1.0,Middle,,
+4,2025-02-27,F2DF,Agriculture,e-commerce platform for farmers,50.0,1.0,5000.0,1,1.0,5.0,2.0,,,4,3.0,1.0,Middle,Jind,Haryana
+4,2025-02-28,SugarStrings.ai,Medical/Health,Multiomic platform for managing chronic genetic DNA conditions,100.0,2.5,4000.0,0,,,,,"Kunal Bahl,Azhar Iqubal",3,3.0,0.0,Middle,"Kalady, Vuyyuru","Kerala,Andhra Pradesh"
+4,2025-02-28,MomsHome,Children/Education,Sustainable baby essentials,75.0,1.0,7500.0,1,1.0,75.0,2.0,,"Kunal Bahl,Azhar Iqubal",2,2.0,0.0,Middle,Jaipur,Rajasthan
+4,2025-02-28,Catwalk,Food and Beverage,Non-alcoholic spirits,100.0,4.16,2403.846154,0,,,,,"Kunal Bahl,Azhar Iqubal",2,2.0,0.0,Middle,Delhi,Delhi
+4,2025-03-03,Beautywise,Beauty/Fashion,Science-backed supplements for skin and hair,100.0,1.5,6666.666667,1,1.0,300.0,6.0,,Kunal Bahl,2,1.0,1.0,Middle,Delhi,Delhi
+4,2025-03-03,Ivory,Medical/Health,Neuroscience-based gaming app,50.0,1.25,4000.0,1,1.0,50.0,5.0,,Kunal Bahl,2,2.0,0.0,Middle,Bangalore,Karnataka
+4,2025-03-03,TheHousePartyBySavar,Business Services,Luxury culinary catering service,100.0,5.0,2000.0,1,1.0,50.0,5.0,,Kunal Bahl,2,1.0,1.0,Middle,Gurugram,Haryana
+4,2025-03-04,GlowGlossary,Food and Beverage,Ceremonial-grade matcha Matcha Kit,60.0,4.0,1500.0,0,,,,,Kunal Bahl,2,0.0,2.0,Middle,"Bangalore,Ghaziabad","Karnataka,Uttar Pradesh"
+4,2025-03-04,SinghDentalCare,Medical/Health,Comprehensive dental care by specialist,100.0,5.0,2000.0,0,,,,,Kunal Bahl,1,1.0,0.0,Middle,Amritsar,Punjab
+4,2025-03-04,TribalVeda,Food and Beverage,Premium jamun products superfoods made by tribal,50.0,2.0,2500.0,1,1.0,50.0,2.8,,Kunal Bahl,2,1.0,1.0,Middle,Udaipur,Rajasthan
+4,2025-03-05,Anuvad,Beauty/Fashion,E-textile fashion Humansing,50.0,5.0,1000.0,0,,,,,Kunal Bahl,1,0.0,1.0,Middle,Ahmedabad,Gujarat
+4,2025-03-05,Fitelo,Fitness/Sports/Outdoors,Holistic health and weight management,150.0,0.5,30000.0,1,1.0,150.0,1.0,,Kunal Bahl,2,2.0,0.0,Middle,Mohali,Punjab
+4,2025-03-05,Nanighar,Food and Beverage,Homemade delicacies Dishes,100.0,5.0,2000.0,0,,,,,Kunal Bahl,2,1.0,1.0,Middle,Kolkata,West Bengal
+4,2025-03-06,GoodMonk,Fitness/Sports/Outdoors,"Multivitamins, probiotics, and fiber mix Lysine, Ashwagandha & Brahmi",100.0,1.67,5988.023952,1,1.0,50.0,1.0,,"Kunal Bahl,Azhar Iqubal",2,1.0,1.0,Middle,Bangalore,Karnataka
+4,2025-03-06,Artbuzz,Business Services,Creative co-living and coworking spaces,100.0,3.0,3333.333333,0,,,,,"Kunal Bahl,Azhar Iqubal",2,1.0,1.0,Middle,Delhi,Delhi
+4,2025-03-06,Tulua,Food and Beverage,"Pure, unadulterated spices",50.0,2.0,2500.0,0,,,,,"Kunal Bahl,Azhar Iqubal",2,1.0,1.0,Middle,Mumbai,Maharashtra
+4,2025-03-07,Taffykids,Children/Education,Playful kidswear for every occasion,75.0,1.0,7500.0,1,1.0,75.0,1.5,,Kunal Bahl,3,1.0,2.0,Middle,Mumbai,Maharashtra
+4,2025-03-07,WhaleWearables,Lifestyle/Home,Groundbreaking women's safety wearable solutions,30.0,3.0,1000.0,1,1.0,30.0,3.0,,Kunal Bahl,2,1.0,1.0,Young,Belagavi,Karnataka
+4,2025-03-07,Zingavita,Medical/Health,High-quality modern Ayurvedic supplements shilajit,100.0,1.25,8000.0,0,,,,,Kunal Bahl,2,2.0,0.0,Middle,Chandigarh,Punjab
+4,2025-03-07,DhaagaLife,Beauty/Fashion,Accessories Handbags,75.0,5.0,1500.0,0,,,,,Kunal Bahl,3,0.0,3.0,Middle,Mumbai,Maharashtra
+4,2025-03-10,Tileskraft,Lifestyle/Home,Wide range of tiles,60.0,12.0,500.0,0,,,,,Kunal Bahl,1,0.0,1.0,Young,Borbi,Gujarat
+4,2025-03-10,Krishnsakhi,Lifestyle/Home,Handcrafted jewelry for Gods,37.5,2.5,1500.0,0,,,,,Kunal Bahl,2,1.0,1.0,Old,Mumbai,Maharashtra
+4,2025-03-10,BoreCharger,Agriculture,Sustainable water bore solutions,75.0,1.5,5000.0,1,0.0,,,,Kunal Bahl,2,2.0,0.0,Middle,Pune,Maharashtra
+4,2025-03-11,SuperBolter,Lifestyle/Home,Three-dimensional home designs,75.0,0.5,15000.0,0,,,,,Kunal Bahl,1,1.0,0.0,Middle,Bangalore,Karnataka
+4,2025-03-11,HiveSchool,Children/Education,Sales school college,60.0,5.0,1200.0,0,,,,,Kunal Bahl,3,3.0,0.0,Young,"Delhi,Indore","Delhi,Madhya Pradesh"
+4,2025-03-11,Tintbox,Lifestyle/Home,Borosilicate glass bottles and lunch boxes,70.0,5.0,1400.0,0,,,,,Kunal Bahl,2,1.0,1.0,Middle,Ahmedabad,Gujarat
+4,2025-03-12,EasyRugs,Lifestyle/Home,"Sustainable, low-maintenance rugs",35.0,5.0,700.0,1,1.0,35.0,5.0,,,2,1.0,1.0,Middle,Delhi,Delhi
+4,2025-03-12,StylesTry,Beauty/Fashion,Stylish women's footwear,50.0,1.0,5000.0,0,,,,,,2,2.0,0.0,Young,Delhi,Delhi
+4,2025-03-12,Quitci,Lifestyle/Home,"Innovative anti-smoking device Smoke-Free, Nicotine-Free",50.0,2.0,2500.0,0,,,,,,2,2.0,0.0,Middle,Kolar,Karnataka
+4,2025-03-13,FitFeast,Food and Beverage,Protein-packed foods Protein Snacks,100.0,6.5,1538.461538,1,1.0,100.0,18.0,Viraj Bahl,"Kunal Bahl,Viraj Bahl",1,1.0,0.0,Young,Delhi,Delhi
+4,2025-03-13,TheBearHouse,Beauty/Fashion,Stylish and affordable menswear,300.0,1.0,30000.0,1,1.0,100.0,1.0,,"Kunal Bahl,Viraj Bahl",2,1.0,1.0,Middle,Bangalore,Karnataka
+4,2025-03-13,UrbanAnimal,Animal/Pets,Dog DNA tests,45.0,5.0,900.0,0,,,,,"Kunal Bahl,Viraj Bahl",2,2.0,0.0,Young,Bangalore,Karnataka
+4,2025-03-14,Nooky,Lifestyle/Home,Aphrodisiac Mood Uplifting chocolates,60.0,1.0,6000.0,0,,,,,Varun Dua,2,1.0,1.0,Middle,Delhi,Delhi
+4,2025-03-14,Subculture,Beauty/Fashion,Fetish leather Fashion,50.0,7.0,714.2857143,0,,,,,Kunal Bahl,1,1.0,0.0,Young,Ara,Bihar
+4,2025-03-14,Woodsmen,Liquor/Alcohol,Himalayan whiskey,150.0,0.5,30000.0,0,,,,,"Kunal Bahl,Azhar Iqubal",1,1.0,0.0,Middle,Delhi,Delhi
+4,2025-03-17,BhavisyaPlast,Green/CleanTech,Affordable RBG's bioplastics,50.0,1.5,3333.333333,1,1.0,200.0,10.0,Chirag Nakrani,Chirag Nakrani,1,0.0,1.0,Young,Kolkata,West Bengal
+4,2025-03-17,Ecoil,Green/CleanTech,Food oil recycling,100.0,1.25,8000.0,1,1.0,50.0,1.0,Chirag Nakrani,Chirag Nakrani,2,1.0,1.0,Middle,Jaipur,Rajasthan
+4,2025-03-17,Rescript,Green/CleanTech,Sustainable stationery Recycled Paper Products,100.0,3.33,3003.003003,0,,,,,Chirag Nakrani,2,2.0,0.0,Middle,Bangalore,Karnataka
+4,2025-03-18,TickleYourArt,Others,Art by artists with Down syndrome,21.3,7.0,304.2857143,1,1.0,21.3,7.0,,"Srikanth Bolla,Chirag Nakrani",3,0.0,3.0,Young,Pune,Maharashtra
+4,2025-03-18,Symbionic,Medical/Health,Advanced prosthetic arms easy-to-use prosthetics,80.0,2.0,4000.0,1,1.0,40.0,1.0,,"Srikanth Bolla,Chirag Nakrani",2,2.0,0.0,Middle,Chennai,Tamil Nadu
+4,2025-03-18,XLCinema,Entertainment,Audio content platform for the visually impaired Automatic Content Augmentation Services,150.0,1.5,10000.0,0,,,,,"Srikanth Bolla,Chirag Nakrani",2,1.0,1.0,Middle,Delhi,Delhi
